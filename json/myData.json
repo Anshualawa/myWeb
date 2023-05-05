@@ -1,0 +1,29 @@
+{
+    "empDetails": [
+        {
+            "emp_id":202301,"first_name": "Johan",
+            "last_name": "Doe",
+            "age": 24
+        },
+        {
+            "emp_id":202302,"first_name": "mark",
+            "last_name": "Doe",
+            "age": 23
+        },
+        {
+            "emp_id":202303,"first_name": "Johan",
+            "last_name": "Doe",
+            "age": 24
+        },
+        {
+            "emp_id":202304,"first_name": "Johan",
+            "last_name": "Doe",
+            "age": 24
+        },
+        {
+            "emp_id":202305,"first_name": "Johan",
+            "last_name": "Doe",
+            "age": 24
+        }
+    ]
+}
