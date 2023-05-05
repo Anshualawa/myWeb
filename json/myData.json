@@ -1,29 +1,66 @@
 {
     "empDetails": [
         {
-            "emp_id":202301,"first_name": "Johan",
+            "emp_id": 202301,
+            "first_name": "Johan",
             "last_name": "Doe",
             "age": 24
         },
         {
-            "emp_id":202302,"first_name": "mark",
+            "emp_id": 202302,
+            "first_name": "mark",
             "last_name": "Doe",
             "age": 23
         },
         {
-            "emp_id":202303,"first_name": "Johan",
+            "emp_id": 202303,
+            "first_name": "Johan",
             "last_name": "Doe",
             "age": 24
         },
         {
-            "emp_id":202304,"first_name": "Johan",
+            "emp_id": 202304,
+            "first_name": "Johan",
             "last_name": "Doe",
             "age": 24
         },
         {
-            "emp_id":202305,"first_name": "Johan",
+            "emp_id": 202305,
+            "first_name": "Johan",
             "last_name": "Doe",
             "age": 24
+        }
+    ],
+    "empResponsibility": [
+        {
+            "emp_id": 202301,
+            "role": "Developer",
+            "join_date": "02/03/2023",
+            "exprience": 1.5
+        },
+        {
+            "emp_id": 202302,
+            "role": "Frontend Developer",
+            "join_date": "10/03/2023",
+            "exprience": 1
+        },
+        {
+            "emp_id": 202303,
+            "role": "Full Stack Developer",
+            "join_date": "22/02/2022",
+            "exprience": 3
+        },
+        {
+            "emp_id": 202304,
+            "role": "Developer",
+            "join_date": "02/03/2023",
+            "exprience": 1.5
+        },
+        {
+            "emp_id": 202305,
+            "role": "Developer",
+            "join_date": "02/03/2023",
+            "exprience": 1.5
         }
     ]
 }
