@@ -1,9 +1,39 @@
-const url = './json/myData.json';
-var data = '';
-
 $(document).ready(function () {
     EmployeeDetails();
 });
+
+
+var app = angular.module('myApp', ['ui.router']);
+
+Directives('navBar', './directiv/nav-bar.html');
+
+app.config(function ($stateProvider, $urlRouterProvider) {
+
+    var codeLogic = {
+        name: 'coding', url: '/coding', templateUrl: './directiv/coding-logic.html'
+    }
+    var dataBase = {
+        name: 'database', url: '/database', templateUrl: './directiv/DataBase.html'
+    }
+    
+
+    $stateProvider.state(codeLogic);
+    $stateProvider.state(dataBase);
+});
+
+
+
+
+
+
+
+function Directives(divName, tempName) {
+    app.directive(divName, function () { return { templateUrl: tempName } });
+}
+
+const url = './json/myData.json';
+var data = '';
+
 
 function EmployeeDetails() {
     let thead = '', tbody = '', tfooter = '', combine = '', rthead = '', rtbody = '';
