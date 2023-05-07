@@ -1,6 +1,3 @@
-$(document).ready(function () {
-    EmployeeDetails();
-});
 
 
 var app = angular.module('myApp', ['ui.router']);
@@ -15,7 +12,7 @@ app.config(function ($stateProvider, $urlRouterProvider) {
     var dataBase = {
         name: 'database', url: '/database', templateUrl: './directiv/DataBase.html'
     }
-    
+
 
     $stateProvider.state(codeLogic);
     $stateProvider.state(dataBase);
@@ -55,3 +52,7 @@ function EmployeeDetails() {
     });
 }
 
+
+$(document).ready(function () {
+    EmployeeDetails();
+});
