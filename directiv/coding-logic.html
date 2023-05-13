@@ -16,20 +16,19 @@
             </div>
             <div class="bg-dark ">
                 <textarea class="bg-dark text-light p-2" name="" id="" cols="58" rows="18">
->>  //Function 
->>
->>    function Factorial ( n ) 
->>    {
->>        // write you code here...
->>        alert (" Hello World ")
->>    }
->>
->>
->>
->>
->>
->>
->>    console.log( Factorial ( 5 ) )
+
+    function factorial(n) {
+    if (n < 0) {
+      throw new Error("The factorial of a negative number is undefined.");
+    }
+    if (n === 0 || n === 1) {
+      return 1;
+    } else {
+      return n * factorial(n - 1);
+    }
+  }
+  
+  console.log(factorial(5))
                 </textarea>
             </div>
         </div>
