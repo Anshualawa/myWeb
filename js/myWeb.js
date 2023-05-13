@@ -1,4 +1,7 @@
 
+$(document).ready(function () {
+    EmployeeDetails(url);
+});
 
 var app = angular.module('myApp', ['ui.router']);
 
@@ -34,7 +37,7 @@ const url = './json/myData.json';
 var data = '';
 
 
-function EmployeeDetails() {
+function EmployeeDetails(url) {
     let thead = '', tbody = '', tfooter = '', combine = '', rthead = '', rtbody = '';
     $.getJSON(url, function (responce) {
         empData = responce.empDetails;
@@ -56,11 +59,5 @@ function EmployeeDetails() {
 
 
 
-function getDBMS() {
-
-}
 
 
-$(document).ready(function () {
-    EmployeeDetails();
-});
