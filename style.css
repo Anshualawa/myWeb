@@ -1,0 +1,80 @@
+@font-face {
+    font-family: Black-ops;
+    src: url(/font/Black\ Ops\ 2\ Font.ttf);
+}
+
+@font-face {
+    font-family: Pirulen-Font;
+    src: url(/font/pirulen\ rg.ttf);
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background: url('img/bg-img.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.account {
+    margin: 60px 0px 0px 0px;
+}
+
+.nav-bar {
+    display: inline-flex;
+    padding-top: 10px;
+    width: 100%;
+}
+
+.nav-bar .banner span {
+    font-family: Black-ops;
+    padding: 5px 40px 5px 40px;
+    font-size: 24px;
+    color: #ffffff;
+    text-shadow: 2px 3px 8px #ff0000;
+}
+
+.nav-bar .navigaters {
+    font-family: Pirulen-Font;
+    width: 70%;
+    /* border: 1px solid; */
+    text-align: center;
+    color: #ffffff;
+    padding: 10px 5px;
+}
+
+.nav-bar .navigaters span {
+    margin: 0px 20px;
+    padding: 0px 10px;
+    /* border: 1px solid #ff0000; */
+}
+
+.nav-bar .navigaters .btnName {
+    padding: 5px 10px;
+    font-weight: 700;
+    text-shadow: 1px 1px 3px #ff0000;
+}
+
+.nav-bar .navigaters .btnName:hover {
+    text-shadow: 1px 1px 3px #ff0000;
+    font-weight: 700;
+    border: 1px solid aqua;
+    border-radius: 10px 1px;
+    background: rgba(0, 255, 255, 0.406);
+}
+
+.nav-bar .navigaters .btnActive {
+    text-shadow: 1px 1px 3px #ff0000;
+    font-weight: 700;
+    border: 1px solid aqua;
+    box-shadow: 0px 0px 7px 1px aqua;
+    border-radius: 10px 1px;
+    background: rgba(0, 255, 255, 0.406);
+}
+
+
+

@@ -1,7 +1,8 @@
+function navBTN(param) {
+    $('.btnName').removeClass('btnActive');
+    $("." + param).addClass('btnActive');
+}
 
-$(document).ready(function () {
-    EmployeeDetails(url);
-});
 
 var app = angular.module('myApp', ['ui.router']);
 
@@ -9,11 +10,11 @@ Directives('navBar', './directiv/nav-bar.html');
 
 app.config(function ($stateProvider, $urlRouterProvider) {
 
-    var dataBase = {name: 'database', url: '/database', templateUrl: './directiv/DataBase.html'}
+    var dataBase = { name: 'database', url: '/database', templateUrl: './directiv/DataBase.html' }
     var dbms = { name: 'dbms', url: '/dbms', templateUrl: './directiv/dbms.html' }
-    var codeLogic = {name: 'coding', url: '/coding', templateUrl: './directiv/coding-logic.html'}
-    var account = {name: 'account', url: '/account', template: '<div class="container my-5 bg-dark text-light"><div class="my-5"><h1>Account Info Coming soon.......</h1></div></div>'}
-    var help = {name: 'help', url: '/help', template: '<h2>Cooming Soon ....</h2>'}
+    var codeLogic = { name: 'coding', url: '/coding', templateUrl: './directiv/coding-logic.html' }
+    var account = { name: 'account', url: '/account', templateUrl: './directiv/account.html' }
+    var help = { name: 'help', url: '/help', template: '<h2>Cooming Soon ....</h2>' }
 
 
     $stateProvider.state(dataBase);
@@ -61,3 +62,6 @@ function EmployeeDetails(url) {
 
 
 
+$(document).ready(function () {
+    EmployeeDetails(url);
+});
