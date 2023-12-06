@@ -3,6 +3,28 @@ function navBTN(param) {
     $("." + param).addClass('btnActive');
 }
 
+function getJSON(url, successCallback) {
+    $.getJSON(url, function (response) {
+        successCallback(response);
+    })
+}
+
+function getData() {
+    getJSON('./json/myData.json', function (responce) {
+        let records;
+        responce.empDetails.forEach(element => {
+            records += `
+            <tr>
+            <td>`+element.emp_id+`</td>
+            <td>`+element.first_name+`</td>
+            <td>`+element.last_name+`</td>
+            <td>`+element.age+`</td>
+            </tr>`;
+        });
+        $('table tbody').html(records);
+    });
+
+}
 
 var app = angular.module('myApp', ['ui.router']);
 
@@ -64,4 +86,5 @@ function EmployeeDetails(url) {
 
 $(document).ready(function () {
     EmployeeDetails(url);
+    getData();
 });

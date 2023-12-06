@@ -10,32 +10,79 @@
 
 * {
     box-sizing: border-box;
-    padding: 0px;
-    margin: 0px;
+    padding: 0rem;
+    margin: 0rem;
+}
+
+html {
+    font-size: 62.5%;
+    /* 
+    16px = 100%
+    1px  =  6.25%
+    10px = 62.5%
+    
+    */
 }
 
 body {
-    background: url('img/bg-img.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('img/bg-img.jpg');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% auto;
+    background-attachment: fixed;
 }
 
-.account {
-    margin: 60px 0px 0px 0px;
+.section-1,
+.section-2,
+.section-3 {
+    color: #ffffff;
+    font-family: Black-ops;
+    text-align: center;
+    width: 100% auto;
+    height: 110rem;
+    padding: 10%;
 }
 
+.section-1 {
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, .3)), url('img/bg-img.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-attachment: fixed;
+}
+
+.section-2 {
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('img/cai-fang-xZgwNbcLBWM-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-attachment: fixed;
+}
+
+.section-3 {
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('img/cristina-gottardi-wndpWTiDuT0-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-attachment: fixed;
+}
+
+.section-4 {
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('img/daniel-zacatenco-6rv0t2VjQR4-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-attachment: fixed;
+}
+
+/* Navigation CSS Start */
 .nav-bar {
     display: inline-flex;
-    padding-top: 10px;
+    padding-top: 1rem;
     width: 100%;
 }
 
 .nav-bar .banner span {
     font-family: Black-ops;
-    padding: 5px 40px 5px 40px;
-    font-size: 24px;
+    padding: 0.5rem 4rem 0.5rem 4rem;
+    font-size: 2.4rem;
     color: #ffffff;
-    text-shadow: 2px 3px 8px #ff0000;
+    text-shadow: 0.2rem 0.3rem 0.8rem #ff0000;
 }
 
 .nav-bar .navigaters {
@@ -44,37 +91,79 @@ body {
     /* border: 1px solid; */
     text-align: center;
     color: #ffffff;
-    padding: 10px 5px;
+    padding: 1rem 0.5rem;
 }
 
 .nav-bar .navigaters span {
-    margin: 0px 20px;
-    padding: 0px 10px;
+    margin: 0rem 2rem;
+    padding: 0rem 1rem;
     /* border: 1px solid #ff0000; */
 }
 
 .nav-bar .navigaters .btnName {
-    padding: 5px 10px;
+    font-size: 1.6rem;
+    padding: 0.5rem 1rem;
     font-weight: 700;
-    text-shadow: 1px 1px 3px #ff0000;
+    text-shadow: 0.1rem 0.1rem 0.3rem #ff0000;
 }
 
 .nav-bar .navigaters .btnName:hover {
-    text-shadow: 1px 1px 3px #ff0000;
+    text-shadow: 0.1rem 0.1rem 0.3rem #ff0000;
     font-weight: 700;
-    border: 1px solid aqua;
-    border-radius: 10px 1px;
+    border: 0.1rem solid aqua;
+    border-radius: 1rem 0.1rem;
     background: rgba(0, 255, 255, 0.406);
 }
 
 .nav-bar .navigaters .btnActive {
-    text-shadow: 1px 1px 3px #ff0000;
+    text-shadow: 0.1rem 0.1rem 0.3rem #ff0000;
     font-weight: 700;
-    border: 1px solid aqua;
-    box-shadow: 0px 0px 7px 1px aqua;
-    border-radius: 10px 1px;
+    border: 0.1rem solid aqua;
+    box-shadow: 0rem 0rem 0.7rem 0.1rem aqua;
+    border-radius: 1rem 0.1rem;
     background: rgba(0, 255, 255, 0.406);
 }
 
+/* Navigation CSS End */
 
+@media screen and (width > 0px) and (width <= 320px) {
+    html {
+        font-size: 17%;
+    }
+}
 
+@media screen and (width > 320px) and (width <= 375px) {
+    html {
+        font-size: 20%;
+    }
+}
+
+@media screen and (width > 375px) and (width <= 425px) {
+    html {
+        font-size: 23%;
+    }
+}
+
+@media screen and (width > 425px) and (width <= 768px) {
+    html {
+        font-size: 40%;
+    }
+}
+
+@media screen and (width > 768px) and (width <= 1024px) {
+    html {
+        font-size: 45%;
+    }
+}
+
+@media screen and (width > 1024px) and (width <= 1440px) {
+    html {
+        font-size: 62.5%;
+    }
+}
+
+@media screen and (width > 1440px) and (width <= 2560px) {
+    html {
+        font-size: 62.5%;
+    }
+}
