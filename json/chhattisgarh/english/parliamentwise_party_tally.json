@@ -1,0 +1,136 @@
+{
+    "results": [
+        {
+            "parliament_name": "BASTAR",
+            "parliament_english": "BASTAR",
+            "total_seats": 8,
+            "count_seats": "8",
+            "bjp_won": "5",
+            "bjp_lead": "0",
+            "inc_won": "3",
+            "inc_lead": "0",
+            "oth_won": "0",
+            "oth_lead": "0"
+        },
+        {
+            "parliament_name": "BILASPUR",
+            "parliament_english": "BILASPUR",
+            "total_seats": 8,
+            "count_seats": "8",
+            "bjp_won": "6",
+            "bjp_lead": "0",
+            "inc_won": "2",
+            "inc_lead": "0",
+            "oth_won": "0",
+            "oth_lead": "0"
+        },
+        {
+            "parliament_name": "DURG",
+            "parliament_english": "DURG",
+            "total_seats": 9,
+            "count_seats": "9",
+            "bjp_won": "7",
+            "bjp_lead": "0",
+            "inc_won": "2",
+            "inc_lead": "0",
+            "oth_won": "0",
+            "oth_lead": "0"
+        },
+        {
+            "parliament_name": "JANJGIR-CHAMPA",
+            "parliament_english": "JANJGIR-CHAMPA",
+            "total_seats": 8,
+            "count_seats": "8",
+            "bjp_won": "0",
+            "bjp_lead": "0",
+            "inc_won": "8",
+            "inc_lead": "0",
+            "oth_won": "0",
+            "oth_lead": "0"
+        },
+        {
+            "parliament_name": "KANKER",
+            "parliament_english": "KANKER",
+            "total_seats": 8,
+            "count_seats": "8",
+            "bjp_won": "3",
+            "bjp_lead": "0",
+            "inc_won": "5",
+            "inc_lead": "0",
+            "oth_won": "0",
+            "oth_lead": "0"
+        },
+        {
+            "parliament_name": "KORBA",
+            "parliament_english": "KORBA",
+            "total_seats": 8,
+            "count_seats": "8",
+            "bjp_won": "6",
+            "bjp_lead": "0",
+            "inc_won": "1",
+            "inc_lead": "0",
+            "oth_won": "1",
+            "oth_lead": "0"
+        },
+        {
+            "parliament_name": "MAHASAMUND",
+            "parliament_english": "MAHASAMUND",
+            "total_seats": 8,
+            "count_seats": "8",
+            "bjp_won": "4",
+            "bjp_lead": "0",
+            "inc_won": "4",
+            "inc_lead": "0",
+            "oth_won": "0",
+            "oth_lead": "0"
+        },
+        {
+            "parliament_name": "RAIGARH",
+            "parliament_english": "RAIGARH",
+            "total_seats": 8,
+            "count_seats": "8",
+            "bjp_won": "4",
+            "bjp_lead": "0",
+            "inc_won": "4",
+            "inc_lead": "0",
+            "oth_won": "0",
+            "oth_lead": "0"
+        },
+        {
+            "parliament_name": "RAIPUR",
+            "parliament_english": "RAIPUR",
+            "total_seats": 9,
+            "count_seats": "9",
+            "bjp_won": "8",
+            "bjp_lead": "0",
+            "inc_won": "1",
+            "inc_lead": "0",
+            "oth_won": "0",
+            "oth_lead": "0"
+        },
+        {
+            "parliament_name": "RAJNANDGAON",
+            "parliament_english": "RAJNANDGAON",
+            "total_seats": 8,
+            "count_seats": "8",
+            "bjp_won": "3",
+            "bjp_lead": "0",
+            "inc_won": "5",
+            "inc_lead": "0",
+            "oth_won": "0",
+            "oth_lead": "0"
+        },
+        {
+            "parliament_name": "SARGUJA",
+            "parliament_english": "SARGUJA",
+            "total_seats": 8,
+            "count_seats": "8",
+            "bjp_won": "8",
+            "bjp_lead": "0",
+            "inc_won": "0",
+            "inc_lead": "0",
+            "oth_won": "0",
+            "oth_lead": "0"
+        }
+    ]
+}

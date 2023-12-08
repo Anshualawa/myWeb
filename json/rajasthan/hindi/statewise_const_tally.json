@@ -1,0 +1,1596 @@
+{
+    "results": [
+        {
+            "state_name": "राजस्थान",
+            "const_name": "अंता",
+            "const_name_english": "ANTA",
+            "candidate_name": "कंवर लाल मीणा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "अजमेर उत्तर",
+            "const_name_english": "AJMER NORTH",
+            "candidate_name": "वासुदेव देवनानी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "अजमेर दक्षिण (एससी)",
+            "const_name_english": "AJMER SOUTH (SC)",
+            "candidate_name": "अनिता भदेल",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "अनूपगढ़",
+            "const_name_english": "ANUPGARH (SC)",
+            "candidate_name": "शिमला देवी नायक",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "अलवर ग्रामीण (एससी)",
+            "const_name_english": "ALWAR RURAL (SC)",
+            "candidate_name": "टीकाराम जूली",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "अलवर शहरी",
+            "const_name_english": "ALWAR URBAN",
+            "candidate_name": "संजय शर्मा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "आदर्श नगर",
+            "const_name_english": "ADARSH NAGAR",
+            "candidate_name": "रफीक खान",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "आमेर",
+            "const_name_english": "AMBER",
+            "candidate_name": "प्रशांत शर्मा",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "आसपुर (एसटी)",
+            "const_name_english": "ASPUR (ST)",
+            "candidate_name": "उमेश मीणा",
+            "party_name": "बीएपी",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "आसींद",
+            "const_name_english": "ASIND",
+            "candidate_name": "जब्बर सिंह सांखला",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "आहोर",
+            "const_name_english": "AHORE",
+            "candidate_name": "छगन सिंह",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "उदयपुर",
+            "const_name_english": "UDAIPUR",
+            "candidate_name": "ताराचंद जैन",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "उदयपुर ग्रामीण (एसटी)",
+            "const_name_english": "UDAIPUR RURAL (ST)",
+            "candidate_name": "फूल सिंह मीणा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "उदयपुरवाटी",
+            "const_name_english": "UDAIPURWATI",
+            "candidate_name": "भगवान राम सैनी",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "ओसियां",
+            "const_name_english": "OSIAN",
+            "candidate_name": "भैराराम चौधरी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "कठूमर (एससी)",
+            "const_name_english": "KATHUMAR (SC)",
+            "candidate_name": "रमेश खिंची",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "कपासन (एससी)",
+            "const_name_english": "KAPASAN (SC)",
+            "candidate_name": "अर्जुनलाल जीनगर",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "करौली",
+            "const_name_english": "KARAULI",
+            "candidate_name": "दर्शन सिंह गुर्जर",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "कामां",
+            "const_name_english": "KAMAN",
+            "candidate_name": "नौक्षम चौधरी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "किशन पोल",
+            "const_name_english": "KISHAN POLE",
+            "candidate_name": "अमीन कागजी",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "किशनगंज (एसटी)",
+            "const_name_english": "KISHANGANJ (ST)",
+            "candidate_name": "ललित मीणा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "किशनगढ़",
+            "const_name_english": "KISHANGARH",
+            "candidate_name": "विकास चौधरी",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "किशनगढ़ बास",
+            "const_name_english": "KISHANGARH BAS",
+            "candidate_name": "दीपचंद खेरिया",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "कुंभलगढ़",
+            "const_name_english": "KUMBHALGARH",
+            "candidate_name": "सुरेंद्र सिंह राठौड़",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "कुशलगढ़ (एसटी)",
+            "const_name_english": "KUSHALGARH (ST)",
+            "candidate_name": "रमिला खड़िया",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "केकड़ी",
+            "const_name_english": "KEKRI",
+            "candidate_name": "शत्रुघ्न गौतम",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "केशोरायपाटन (एससी)",
+            "const_name_english": "KESHORAIPATAN (SC)",
+            "candidate_name": "सीएल प्रेमी",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "कोटपुतली",
+            "const_name_english": "KOTPUTLI",
+            "candidate_name": "हंसराज पटेल",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "कोटा उत्तर",
+            "const_name_english": "KOTA NORTH",
+            "candidate_name": "शांति कुमार धारीवाल",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "कोटा दक्षिण",
+            "const_name_english": "KOTA SOUTH",
+            "candidate_name": "संदीप शर्मा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "कोलायत",
+            "const_name_english": "KOLAYAT",
+            "candidate_name": "अंशुमान सिंह भाटी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "खंडार (एससी)",
+            "const_name_english": "KHANDAR (SC)",
+            "candidate_name": "जितेंद्र गोठवाल",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "खंडेला",
+            "const_name_english": "KHANDELA",
+            "candidate_name": "सुभाष मील",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "खाजूवाला",
+            "const_name_english": "KHAJUWALA (SC)",
+            "candidate_name": "विश्वनाथ मेघवाल",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "खानपुर",
+            "const_name_english": "KHANPUR",
+            "candidate_name": "सुरेश गुर्जर",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "खींवसर",
+            "const_name_english": "KHINWSAR",
+            "candidate_name": "हनुमान बेनीवाल",
+            "party_name": "आरएलपी",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "खेतड़ी",
+            "const_name_english": "KHETRI",
+            "candidate_name": "धर्मपाल गुर्जर",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "खेरवाड़ा (एसटी)",
+            "const_name_english": "KHERWARA (ST)",
+            "candidate_name": "दयाराम परमार",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "गंगानगर",
+            "const_name_english": "GANGANAGAR",
+            "candidate_name": "जयदीप बिहानी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "गंगापुर",
+            "const_name_english": "GANGAPUR",
+            "candidate_name": "रामकेश मीणा",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "गढ़ी (एसटी)",
+            "const_name_english": "GARHI (ST)",
+            "candidate_name": "कैलाश चंद्र मीणा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "गुढ़ामालानी",
+            "const_name_english": "GUDHAMALANI",
+            "candidate_name": "के के बिश्नोई",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "गोगुन्दा (एसटी)",
+            "const_name_english": "GOGUNDA (ST)",
+            "candidate_name": "प्रताप लाल गमेती",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "घाटोल (एसटी)",
+            "const_name_english": "GHATOL (ST)",
+            "candidate_name": "नानालाल निनामा",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "चाकसू (एससी)",
+            "const_name_english": "CHAKSU (SC)",
+            "candidate_name": "रामावतार बैरवा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "चित्तौड़गढ़",
+            "const_name_english": "CHITTORGARH",
+            "candidate_name": "चंद्रभान सिंह चौहान",
+            "party_name": "निर्दलीय",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "चूरू",
+            "const_name_english": "CHURU",
+            "candidate_name": "हरलाल सहारन",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "चौमू",
+            "const_name_english": "CHOMU",
+            "candidate_name": "शिखा मील बराला",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "चौरासी (एसटी)",
+            "const_name_english": "CHORASI (ST)",
+            "candidate_name": "राजकुमार रोत",
+            "party_name": "बीएपी",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "चौहटन (एससी)",
+            "const_name_english": "CHOHTAN (SC)",
+            "candidate_name": "आदूराम मेघवाल",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "छबड़ा",
+            "const_name_english": "CHHABRA",
+            "candidate_name": "प्रताप सिंह",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "जमवा रामगढ़ (एसटी)",
+            "const_name_english": "JAMWA RAMGARH (ST)",
+            "candidate_name": "महेंद्र पाल मीणा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "जहाजपुर",
+            "const_name_english": "JAHAZPUR",
+            "candidate_name": "गोपी चंद मीणा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "जायल (एससी)",
+            "const_name_english": "JAYAL (SC)",
+            "candidate_name": "डॉ. मंजू बाघमार",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "जालोर (एससी)",
+            "const_name_english": "JALORE (SC)",
+            "candidate_name": "जोगेश्वर गर्ग",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "जैतारण",
+            "const_name_english": "JAITARAN",
+            "candidate_name": "अविनाश गहलोत",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "जैसलमेर",
+            "const_name_english": "JAISALMER",
+            "candidate_name": "छोटू सिंह भाटी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "जोधपुर",
+            "const_name_english": "JODHPUR",
+            "candidate_name": "अतुल भंसाली",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "झाड़ोल (एसटी)",
+            "const_name_english": "JHADOL (ST)",
+            "candidate_name": "बाबू लाल खराड़ी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "झालरापाटन",
+            "const_name_english": "JHALRAPATAN",
+            "candidate_name": "वसुन्धरा राजे",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "झुंझुनूं",
+            "const_name_english": "JHUNJHUNU",
+            "candidate_name": "बृजेंद्र सिंह ओला",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "झोटवाड़ा",
+            "const_name_english": "JHOTWARA",
+            "candidate_name": "राज्यवर्धन राठौड़",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "टोंक",
+            "const_name_english": "TONK",
+            "candidate_name": "सचिन पायलट",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "टोडाभीम (एसटी)",
+            "const_name_english": "TODABHIM (ST)",
+            "candidate_name": "घनश्याम मेहर",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "डग (एससी)",
+            "const_name_english": "DAG (SC)",
+            "candidate_name": "कालूराम मेघवाल",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "डीग-कुम्हेर",
+            "const_name_english": "DEEG-KUMHER",
+            "candidate_name": "डॉ शैलेश",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "डीडवाना",
+            "const_name_english": "DEEDWANA",
+            "candidate_name": "यूनुस खान",
+            "party_name": "निर्दलीय",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "डूंगरगढ़",
+            "const_name_english": "DUNGARGARH",
+            "candidate_name": "ताराचंद सारस्वत",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "डूंगरपुर (एसटी)",
+            "const_name_english": "DUNGARPUR (ST)",
+            "candidate_name": "गणेश घोगरा",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "डेगाना",
+            "const_name_english": "DEGANA",
+            "candidate_name": "अजय सिंह किलक",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "तारानगर",
+            "const_name_english": "TARANAGAR",
+            "candidate_name": "नरेंद्र बुड़ानिया",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "तिजारा",
+            "const_name_english": "TIJARA",
+            "candidate_name": "बाबा बालकनाथ",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "थानागाजी",
+            "const_name_english": "THANAGAZI",
+            "candidate_name": "कांति प्रसाद मीणा",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "दांतारामगढ़",
+            "const_name_english": "DANTA RAMAGRH",
+            "candidate_name": "वीरेन्द्र सिंह",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "दूदू (एससी)",
+            "const_name_english": "DUDU (SC)",
+            "candidate_name": "प्रेम चंद बैरवा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "देवली-उनियारा",
+            "const_name_english": "DEOLI - UNIARA",
+            "candidate_name": "हरीश मीणा",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "दौसा",
+            "const_name_english": "DAUSA",
+            "candidate_name": "मुरारी लाल मीणा",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "धरियावद (एसटी)",
+            "const_name_english": "DHARIYAWAD (ST)",
+            "candidate_name": "थावर चंद",
+            "party_name": "बीएपी",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "धोद (एससी)",
+            "const_name_english": "DHOD (SC)",
+            "candidate_name": "गोरधन वर्मा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "धौलपुर",
+            "const_name_english": "DHOLPUR",
+            "candidate_name": "शोभारानी कुशवाह",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "नगर",
+            "const_name_english": "NAGAR",
+            "candidate_name": "जवाहर सिंह बेडम",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "नदबई",
+            "const_name_english": "NADBAI",
+            "candidate_name": "जगत सिंह",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "नवलगढ़",
+            "const_name_english": "NAWALGARH",
+            "candidate_name": "विक्रम जाखल",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "नसीराबाद",
+            "const_name_english": "NASIRABAD",
+            "candidate_name": "रामस्वरूप लांबा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "नागौर",
+            "const_name_english": "NAGAUR",
+            "candidate_name": "हरेंद्र मिर्धा",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "नाथद्वारा",
+            "const_name_english": "NATHDWARA",
+            "candidate_name": "विश्वराज सिंह मेवाड़",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "नावां",
+            "const_name_english": "NAWAN",
+            "candidate_name": "विजय सिंह चौधरी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "निंबाहेड़ा",
+            "const_name_english": "NIMBAHERA",
+            "candidate_name": "श्रीचंद कृपलानी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "निवाई (एससी)",
+            "const_name_english": "NIWAI (SC)",
+            "candidate_name": "रामसहाय वर्मा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "नीम का थाना",
+            "const_name_english": "NEEM KA THANA",
+            "candidate_name": "सुरेश कुमार मोदी",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "नोखा",
+            "const_name_english": "NOKHA",
+            "candidate_name": "सुशीला डुडी",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "नोहर",
+            "const_name_english": "NOHAR",
+            "candidate_name": "अमित चाचाण",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "पचपदरा",
+            "const_name_english": "PACHPADRA",
+            "candidate_name": "अरुण अमरा राम चौधरी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "परबतसर",
+            "const_name_english": "PARBATSAR",
+            "candidate_name": "रामनिवास गावड़िया",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "पाली",
+            "const_name_english": "PALI",
+            "candidate_name": "भीमराज भाटी",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "पिंडवाड़ा आबू (एसटी)",
+            "const_name_english": "PINDWARA ABU (ST)",
+            "candidate_name": "समाराम गरासिया",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "पिलानी",
+            "const_name_english": "PILANI (SC)",
+            "candidate_name": "पीतराम काला",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "पीपलदा",
+            "const_name_english": "PIPALDA",
+            "candidate_name": "चेतन पटेल",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "पीलीबंगा",
+            "const_name_english": "PILIBANGA (SC)",
+            "candidate_name": "विनोद गोठवाल",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "पुष्कर",
+            "const_name_english": "PUSHKAR",
+            "candidate_name": "सुरेश सिंह रावत",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "पोकरण",
+            "const_name_english": "POKARAN",
+            "candidate_name": "प्रताप पुरी महाराज",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "प्रतापगढ़ (एसटी)",
+            "const_name_english": "PRATAPGARH (ST)",
+            "candidate_name": "हेमन्त मीणा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "फलौदी",
+            "const_name_english": "PHALODI",
+            "candidate_name": "पब्बाराम बिश्नोई",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "फ़तेहपुर",
+            "const_name_english": "FATEHPUR",
+            "candidate_name": "हाकम अली",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "फुलेरा",
+            "const_name_english": "PHULERA",
+            "candidate_name": "विद्याधर सिंह",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "बगरू (एससी)",
+            "const_name_english": "BAGRU (SC)",
+            "candidate_name": "कैलाश चंद वर्मा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "बड़ी सादड़ी",
+            "const_name_english": "BADI SADRI",
+            "candidate_name": "गौतम सिंह दक",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "बयाना (एससी)",
+            "const_name_english": "BAYANA (SC)",
+            "candidate_name": "डॉ रितु बानावत",
+            "party_name": "निर्दलीय",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "बसेड़ी (एससी)",
+            "const_name_english": "BASERI (SC)",
+            "candidate_name": "संजय कुमार जाटव",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "बस्सी (एसटी)",
+            "const_name_english": "BASSI (ST)",
+            "candidate_name": "लक्ष्मण मीणा",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "बहरोड़",
+            "const_name_english": "BEHROR",
+            "candidate_name": "जसवन्त सिंह यादव",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "बांदीकुई",
+            "const_name_english": "BANDIKUI",
+            "candidate_name": "भागचंद टांकड़ा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "बांसवाड़ा (एसटी)",
+            "const_name_english": "BANSWARA (ST)",
+            "candidate_name": "अर्जुन सिंह बामनिया",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "बागीदौरा (एसटी)",
+            "const_name_english": "BAGIDORA (ST)",
+            "candidate_name": "महेंद्र जीत सिंह",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "बाड़मेर",
+            "const_name_english": "BARMER",
+            "candidate_name": "डॉ प्रियंका चौधरी",
+            "party_name": "निर्दलीय",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "बाड़ी",
+            "const_name_english": "BARI",
+            "candidate_name": "जसवंत सिंह गुर्जर",
+            "party_name": "बसपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "बानसुर",
+            "const_name_english": "BANSUR",
+            "candidate_name": "देवी सिंह शेखावत",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "बामनवास (ST)",
+            "const_name_english": "BAMANWAS (ST)",
+            "candidate_name": "इंदिरा मीणा",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "बायतु",
+            "const_name_english": "BAYTU",
+            "candidate_name": "हरीश चौधरी",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "बारां-अटरू (एससी)",
+            "const_name_english": "BARAN-ATRU (SC)",
+            "candidate_name": "राधेश्याम बैरवा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "बाली",
+            "const_name_english": "BALI",
+            "candidate_name": "पुष्पेंद्र सिंह",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "बिलाड़ा (एससी)",
+            "const_name_english": "BILARA (SC)",
+            "candidate_name": "अर्जुन लाल गर्ग",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "बीकानेर पश्चिम",
+            "const_name_english": "BIKANER WEST",
+            "candidate_name": "जेठानंद व्यास",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "बीकानेर पूर्व",
+            "const_name_english": "BIKANER EAST",
+            "candidate_name": "सिद्धी कुमारी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "बूंदी",
+            "const_name_english": "BUNDI",
+            "candidate_name": "हरिमोहन शर्मा",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "बेगूं",
+            "const_name_english": "BEGUN",
+            "candidate_name": "सुरेश धाकड़",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "ब्यावर",
+            "const_name_english": "BEAWAR",
+            "candidate_name": "शंकर सिंह रावत",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "भरतपुर",
+            "const_name_english": "BHARATPUR",
+            "candidate_name": "डॉ.सुभाष गर्ग",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "भादरा",
+            "const_name_english": "BHADRA",
+            "candidate_name": "संजीव बेनीवाल",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "भीनमाल",
+            "const_name_english": "BHINMAL",
+            "candidate_name": "समरजीत सिंह",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "भीम",
+            "const_name_english": "BHIM",
+            "candidate_name": "हरि सिंह चौहान",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "भीलवाड़ा",
+            "const_name_english": "BHILWARA",
+            "candidate_name": "अशोक कुमार कोठारी",
+            "party_name": "निर्दलीय",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "भोपालगढ़ (एससी)",
+            "const_name_english": "BHOPALGARH (SC)",
+            "candidate_name": "गीता बरवड़",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "मंडावा",
+            "const_name_english": "MANDAWA",
+            "candidate_name": "रीटा चौधरी",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "मकराना",
+            "const_name_english": "MAKRANA",
+            "candidate_name": "जाकिर हुसैन गैसावत",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "मनोहर थाना",
+            "const_name_english": "MANOHAR THANA",
+            "candidate_name": "गोविंद प्रसाद",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "मसूदा",
+            "const_name_english": "MASUDA",
+            "candidate_name": "वीरेंद्र सिंह कानावत",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "महुवा",
+            "const_name_english": "MAHUWA",
+            "candidate_name": "राजेंद्र मीणा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "मांडल",
+            "const_name_english": "MANDAL",
+            "candidate_name": "उदय लाल भड़ाना",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "मांडलगढ़",
+            "const_name_english": "MANDALGARH",
+            "candidate_name": "गोपाल लाल शर्मा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "मारवाड़ जंक्शन",
+            "const_name_english": "MARWAR JUNCTION",
+            "candidate_name": "केसाराम चौधरी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "मालपुरा",
+            "const_name_english": "MALPURA",
+            "candidate_name": "कन्हैयालाल चौधरी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "मालवीय नगर",
+            "const_name_english": "MALVIYA NAGAR",
+            "candidate_name": "काली चरण सराफ",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "मावली",
+            "const_name_english": "MAVLI",
+            "candidate_name": "पुष्कर लाल डांगी",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "मुंडावर",
+            "const_name_english": "MUNDAWAR",
+            "candidate_name": "ललित कुमार यादव",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "मेड़ता (एससी)",
+            "const_name_english": "MERTA (SC)",
+            "candidate_name": "लक्ष्मण राम मेघवाल",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "रतनगढ़",
+            "const_name_english": "RATANGARH",
+            "candidate_name": "पुसाराम गोदारा",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "राजगढ़ लक्ष्मणगढ़ (एसटी)",
+            "const_name_english": "RAJGARH LAXMANGARH (ST)",
+            "candidate_name": "मांगी लाल मीणा",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "राजसमंद",
+            "const_name_english": "RAJSAMAND",
+            "candidate_name": "दीप्ति किरण माहेश्वरी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "राजाखेड़ा",
+            "const_name_english": "RAJAKHERA",
+            "candidate_name": "रोहित बोहरा",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "रानीवाड़ा",
+            "const_name_english": "RANIWARA",
+            "candidate_name": "रतन देवासी",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "रामगंजमंडी (एससी)",
+            "const_name_english": "RAMGANJ MANDI (SC)",
+            "candidate_name": "मदन दिलावर",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "रामगढ़",
+            "const_name_english": "RAMGARH",
+            "candidate_name": "जुबेर खान",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "रायसिंहनगर",
+            "const_name_english": "RAISINGHNAGAR (SC)",
+            "candidate_name": "सोहनलाल नायक",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "रेवदर (एससी)",
+            "const_name_english": "REODAR (SC)",
+            "candidate_name": "मोतीराम कोली",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "लक्ष्मणगढ़",
+            "const_name_english": "LACHHMANGARH",
+            "candidate_name": "गोविंद सिंह डोटासरा",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "लाडनूं",
+            "const_name_english": "LADNUN",
+            "candidate_name": "मुकेश कुमार भाकर",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "लाडपुरा",
+            "const_name_english": "LADPURA",
+            "candidate_name": "कल्पना देवी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "लालसोट (एसटी)",
+            "const_name_english": "LALSOT (ST)",
+            "candidate_name": "रामबिलास मीणा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "लूणकरणसर",
+            "const_name_english": "LUNKARANSAR",
+            "candidate_name": "सुमित गोदारा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "लूनी",
+            "const_name_english": "LUNI",
+            "candidate_name": "जोगाराम पटेल",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "लोहावट",
+            "const_name_english": "LOHAWAT",
+            "candidate_name": "गजेंद्रसिंह खींवसर",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "वल्लभनगर",
+            "const_name_english": "VALLABH NAGAR",
+            "candidate_name": "उदय लाल दांगी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "विद्याधर नगर",
+            "const_name_english": "VIDHYADHAR NAGAR",
+            "candidate_name": "दीया कुमारी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "विराटनगर",
+            "const_name_english": "VIRATNAGAR",
+            "candidate_name": "कुलदीप धनखड़",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "वैर (एससी)",
+            "const_name_english": "WEIR (SC)",
+            "candidate_name": "बहादुर सिंह कोली",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "शाहपुरा",
+            "const_name_english": "SHAHPURA",
+            "candidate_name": "मनीष यादव",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "शाहपुरा (एससी)",
+            "const_name_english": "SHAHPURA (SC)",
+            "candidate_name": "लालाराम बैरवा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "शिव",
+            "const_name_english": "SHEO",
+            "candidate_name": "रविंद्र सिंह भाटी",
+            "party_name": "निर्दलीय",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "शेरगढ़",
+            "const_name_english": "SHERGARH",
+            "candidate_name": "बाबू सिंह राठौड़",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "श्रीमाधोपुर",
+            "const_name_english": "SRI MADHOPUR",
+            "candidate_name": "झाबर सिंह खर्रा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "सपोटरा (एसटी)",
+            "const_name_english": "SAPOTRA (ST)",
+            "candidate_name": "हंसराज मीणा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "सरदारपुरा",
+            "const_name_english": "SARDARPURA",
+            "candidate_name": "अशोक गहलोत",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "सरदारशहर",
+            "const_name_english": "SARDARSHAHAR",
+            "candidate_name": "अनिल कुमार शर्मा",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "सलूम्बर (एसटी)",
+            "const_name_english": "SALUMBER (ST)",
+            "candidate_name": "अमृत ​​लाल मीणा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "सवाई माधोपुर",
+            "const_name_english": "SAWAI MADHOPUR",
+            "candidate_name": "डॉ. किरोड़ी लाल मीणा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "सहाड़ा",
+            "const_name_english": "SAHARA",
+            "candidate_name": "लादुलाल पितलिया",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "सांगरिया",
+            "const_name_english": "SANGARIA",
+            "candidate_name": "अभिमन्यु पूनिया",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "सांगानेर",
+            "const_name_english": "SANGANER",
+            "candidate_name": "भजन लाल शर्मा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "सांगोद",
+            "const_name_english": "SANGOD",
+            "candidate_name": "हीरा लाल नागर",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "सांचौर",
+            "const_name_english": "SANCHORE",
+            "candidate_name": "जीवा राम",
+            "party_name": "निर्दलीय",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "सागवाड़ा (एसटी)",
+            "const_name_english": "SAGWARA (ST)",
+            "candidate_name": "शंकरलाल डेचा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "सादुलपुर",
+            "const_name_english": "SADULPUR",
+            "candidate_name": "मनोज कुमार पुत्र स्वाई सिंह",
+            "party_name": "बसपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "सादुलशहर",
+            "const_name_english": "SADULSHAHAR",
+            "candidate_name": "गुरवीर सिंह बरार",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "सिकराय (एससी)",
+            "const_name_english": "SIKRAI (SC)",
+            "candidate_name": "विक्रम बंसीवाल",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "सिरोही",
+            "const_name_english": "SIROHI",
+            "candidate_name": "ओटाराम देवासी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "सिवाना",
+            "const_name_english": "SIWANA",
+            "candidate_name": "हमीर सिंह भायल",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "सिविल लाइंस",
+            "const_name_english": "CIVIL LINES",
+            "candidate_name": "गोपाल शर्मा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "सीकर",
+            "const_name_english": "SIKAR",
+            "candidate_name": "राजेंद्र पारीक",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "सुजानगढ़",
+            "const_name_english": "SUJANGARH (SC)",
+            "candidate_name": "मनोज मेघवाल",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "सुमेरपुर",
+            "const_name_english": "SUMERPUR",
+            "candidate_name": "जोराराम कुमावत",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "सूरजगढ़",
+            "const_name_english": "SURAJGARH",
+            "candidate_name": "श्रवण कुमार",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "सूरतगढ़",
+            "const_name_english": "SURATGARH",
+            "candidate_name": "डूंगर राम गेदर",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "सूरसागर",
+            "const_name_english": "SOORSAGAR",
+            "candidate_name": "देवेन्द्र जोशी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "सोजत (एससी)",
+            "const_name_english": "SOJAT (SC)",
+            "candidate_name": "शोभा चौहान",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "हनुमानगढ़",
+            "const_name_english": "HANUMANGARH",
+            "candidate_name": "गणेशराज बंसल",
+            "party_name": "निर्दलीय",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "हवा महल",
+            "const_name_english": "HAWA MAHAL",
+            "candidate_name": "बालमुकुंद आचार्य",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "हिंडौन (एससी)",
+            "const_name_english": "HINDAUN (SC)",
+            "candidate_name": "अनिता जाटव",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "राजस्थान",
+            "const_name": "हिण्डोली",
+            "const_name_english": "HINDOLI",
+            "candidate_name": "अशोक चांदना",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        }
+    ]
+}

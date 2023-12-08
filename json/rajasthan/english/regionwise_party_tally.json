@@ -1,0 +1,88 @@
+{
+    "results": [
+        {
+            "region_name": "AJMER",
+            "region_name_english": "AJMER",
+            "total_seats": 29,
+            "count_seats": "29",
+            "bjp_won": "19",
+            "bjp_lead": "0",
+            "inc_won": "7",
+            "inc_lead": "0",
+            "oth_won": "3",
+            "oth_lead": "0"
+        },
+        {
+            "region_name": "BHARATPUR",
+            "region_name_english": "BHARATPUR",
+            "total_seats": 19,
+            "count_seats": "19",
+            "bjp_won": "9",
+            "bjp_lead": "0",
+            "inc_won": "8",
+            "inc_lead": "0",
+            "oth_won": "2",
+            "oth_lead": "0"
+        },
+        {
+            "region_name": "BIKANER",
+            "region_name_english": "BIKANER",
+            "total_seats": 23,
+            "count_seats": "23",
+            "bjp_won": "10",
+            "bjp_lead": "0",
+            "inc_won": "11",
+            "inc_lead": "0",
+            "oth_won": "2",
+            "oth_lead": "0"
+        },
+        {
+            "region_name": "JAIPUR",
+            "region_name_english": "JAIPUR",
+            "total_seats": 50,
+            "count_seats": "50",
+            "bjp_won": "26",
+            "bjp_lead": "0",
+            "inc_won": "24",
+            "inc_lead": "0",
+            "oth_won": "0",
+            "oth_lead": "0"
+        },
+        {
+            "region_name": "JODHPUR",
+            "region_name_english": "JODHPUR",
+            "total_seats": 33,
+            "count_seats": "33",
+            "bjp_won": "23",
+            "bjp_lead": "0",
+            "inc_won": "7",
+            "inc_lead": "0",
+            "oth_won": "3",
+            "oth_lead": "0"
+        },
+        {
+            "region_name": "KOTA",
+            "region_name_english": "KOTA",
+            "total_seats": 17,
+            "count_seats": "17",
+            "bjp_won": "11",
+            "bjp_lead": "0",
+            "inc_won": "6",
+            "inc_lead": "0",
+            "oth_won": "0",
+            "oth_lead": "0"
+        },
+        {
+            "region_name": "UDAIPUR",
+            "region_name_english": "UDAIPUR",
+            "total_seats": 28,
+            "count_seats": "28",
+            "bjp_won": "17",
+            "bjp_lead": "0",
+            "inc_won": "7",
+            "inc_lead": "0",
+            "oth_won": "4",
+            "oth_lead": "0"
+        }
+    ]
+}

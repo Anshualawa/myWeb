@@ -8,6 +8,16 @@
     src: url(/font/pirulen\ rg.ttf);
 }
 
+@font-face {
+    font-family: Oakes-Regular;
+    src: url(/font/Oakes-Font/Oakes\ Grotesk\ Regular.ttf);
+}
+
+@font-face {
+    font-family: kundli-Normal;
+    src: url(/font/Kundli\ NormalA.ttf);
+}
+
 * {
     box-sizing: border-box;
     padding: 0rem;
@@ -39,7 +49,8 @@ body {
     text-align: center;
     width: 100% auto;
     height: 110rem;
-    padding: 10%;
+    padding: 5%;
+    place-items: center;
 }
 
 .section-1 {
@@ -56,11 +67,75 @@ body {
     background-attachment: fixed;
 }
 
+.section-2 .container {
+    font-family: Oakes-Regular;
+    padding: 3rem;
+    margin: 3rem;
+    font-size: 2rem;
+    width: 50% auto;
+    border: 0.5rem dashed #ff0000;
+    /* none, hidden, dashed, dotted,
+                                 solid,double, groove, ridge,  
+                                 inset, outset, initial, inherit */
+}
+
+.section-2 .container p {
+    text-align: center;
+}
+
 .section-3 {
     background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('img/cristina-gottardi-wndpWTiDuT0-unsplash.jpg');
     background-repeat: no-repeat;
     background-size: 100% auto;
     background-attachment: fixed;
+}
+
+.section-3 div {
+    /* border: 0.5rem solid #ff0000; */
+    padding: 1.5rem 2.5rem;
+    box-shadow: 1rem 1rem 2rem #191919;
+    width: 100% auto;
+    max-height: 60rem;
+    /* overflow-y: scroll; */
+    display: flex;
+    justify-content: space-between;
+    border-radius: 1.5rem;
+    background: #8080809a;
+}
+
+.section-3 div div {
+    box-shadow: none;
+    background: none;
+    margin-top: 1rem;
+    overflow: hidden;
+    overflow-y: scroll;
+    background: #a2a4a8;
+    border-radius: 0rem;
+
+}
+
+.section-3 div table {
+    font-size: 2rem;
+    text-align: start;
+    /* font-family: kundli-Normal; */
+    border: 0.3rem solid #808080;
+    background: #a2a4a8;
+
+}
+
+.section-3 div table thead {
+    color: #000000;
+}
+
+.section-3 div table tbody tr td,
+.section-3 div table thead tr th {
+    padding: 1.5rem;
+    color: #000000;
+    background: whitesmoke;
+}
+
+.section-3 div table thead tr th {
+    background-color: #d8d6d2;
 }
 
 .section-4 {
@@ -124,45 +199,50 @@ body {
     background: rgba(0, 255, 255, 0.406);
 }
 
+table {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3rem;
+}
+
 /* Navigation CSS End */
 
-@media screen and (width > 0px) and (width <= 320px) {
+@media screen and (width > 0px) and (width <=320px) {
     html {
         font-size: 17%;
     }
 }
 
-@media screen and (width > 320px) and (width <= 375px) {
+@media screen and (width > 320px) and (width <=375px) {
     html {
         font-size: 20%;
     }
 }
 
-@media screen and (width > 375px) and (width <= 425px) {
+@media screen and (width > 375px) and (width <=425px) {
     html {
         font-size: 23%;
     }
 }
 
-@media screen and (width > 425px) and (width <= 768px) {
+@media screen and (width > 425px) and (width <=768px) {
     html {
         font-size: 40%;
     }
 }
 
-@media screen and (width > 768px) and (width <= 1024px) {
+@media screen and (width > 768px) and (width <=1024px) {
     html {
         font-size: 45%;
     }
 }
 
-@media screen and (width > 1024px) and (width <= 1440px) {
+@media screen and (width > 1024px) and (width <=1440px) {
     html {
         font-size: 62.5%;
     }
 }
 
-@media screen and (width > 1440px) and (width <= 2560px) {
+@media screen and (width > 1440px) and (width <=2560px) {
     html {
         font-size: 62.5%;
     }

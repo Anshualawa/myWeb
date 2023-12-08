@@ -1,0 +1,35 @@
+{
+    "totalresults": [
+        {
+            "state_id": 20,
+            "state_name": "MADHYA PRADESH",
+            "party_name": "BJP",
+            "lead": "0",
+            "won": "163",
+            "total": 163
+        },
+        {
+            "state_id": 20,
+            "state_name": "MADHYA PRADESH",
+            "party_name": "INC",
+            "lead": "0",
+            "won": "66",
+            "total": 66
+        },
+        {
+            "state_id": 20,
+            "state_name": "MADHYA PRADESH",
+            "party_name": "OTHERS",
+            "lead": "0",
+            "won": "1",
+            "total": 1
+        },
+        {
+            "state_id": 20,
+            "total_seats": 230,
+            "won_seats": 230,
+            "lead_seats": 0,
+            "total_count": 230
+        }
+    ]
+}

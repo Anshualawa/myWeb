@@ -1,0 +1,1596 @@
+{
+    "results": [
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "ADARSH NAGAR",
+            "const_name_english": "ADARSH NAGAR",
+            "candidate_name": "RAFEEK KHAN",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "AHORE",
+            "const_name_english": "AHORE",
+            "candidate_name": "CHHAGAN SINGH",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "AJMER NORTH",
+            "const_name_english": "AJMER NORTH",
+            "candidate_name": "VASUDEV DEVNANI",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "AJMER SOUTH (SC)",
+            "const_name_english": "AJMER SOUTH (SC)",
+            "candidate_name": "ANITA BHADEL",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "ALWAR RURAL (SC)",
+            "const_name_english": "ALWAR RURAL (SC)",
+            "candidate_name": "TIKARAM JULI",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "ALWAR URBAN",
+            "const_name_english": "ALWAR URBAN",
+            "candidate_name": "SANJAY SHARMA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "AMBER",
+            "const_name_english": "AMBER",
+            "candidate_name": "PRASHANT SHARMA",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "ANTA",
+            "const_name_english": "ANTA",
+            "candidate_name": "KANWAR LAL MEENA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "ANUPGARH (SC)",
+            "const_name_english": "ANUPGARH (SC)",
+            "candidate_name": "SHIMLA DEVI NAYAK",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "ASIND",
+            "const_name_english": "ASIND",
+            "candidate_name": "JABBAR SINGH SANKHALA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "ASPUR (ST)",
+            "const_name_english": "ASPUR (ST)",
+            "candidate_name": "UMESH MEENA",
+            "party_name": "BAP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BADI SADRI",
+            "const_name_english": "BADI SADRI",
+            "candidate_name": "GAUTAM SINGH DAK",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BAGIDORA (ST)",
+            "const_name_english": "BAGIDORA (ST)",
+            "candidate_name": "MAHENDRA JEET SINGH",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BAGRU (SC)",
+            "const_name_english": "BAGRU (SC)",
+            "candidate_name": "KAILASH CHAND VERMA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BALI",
+            "const_name_english": "BALI",
+            "candidate_name": "PUSHPENDRA SINGH",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BAMANWAS (ST)",
+            "const_name_english": "BAMANWAS (ST)",
+            "candidate_name": "INDRA MEENA",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BANDIKUI",
+            "const_name_english": "BANDIKUI",
+            "candidate_name": "BHAGCHAND TANKDA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BANSUR",
+            "const_name_english": "BANSUR",
+            "candidate_name": "DEVI SINGH SHEKHAWAT",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BANSWARA (ST)",
+            "const_name_english": "BANSWARA (ST)",
+            "candidate_name": "ARJUN SINGH BAMANIYA",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BARAN-ATRU (SC)",
+            "const_name_english": "BARAN-ATRU (SC)",
+            "candidate_name": "RADHESHYAM BAIRWA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BARI",
+            "const_name_english": "BARI",
+            "candidate_name": "JASWANT SINGH GURJAR",
+            "party_name": "BSP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BARMER",
+            "const_name_english": "BARMER",
+            "candidate_name": "DR. PRIYANKA CHOWDHARY",
+            "party_name": "IND",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BASERI (SC)",
+            "const_name_english": "BASERI (SC)",
+            "candidate_name": "SANJAY KUMAR JATAV",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BASSI (ST)",
+            "const_name_english": "BASSI (ST)",
+            "candidate_name": "LAXMAN MEENA",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BAYANA (SC)",
+            "const_name_english": "BAYANA (SC)",
+            "candidate_name": "DR. RITU BANAWAT",
+            "party_name": "IND",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BAYTU",
+            "const_name_english": "BAYTU",
+            "candidate_name": "HARISH CHAUDHARY",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BEAWAR",
+            "const_name_english": "BEAWAR",
+            "candidate_name": "SHANKAR SINGH RAWAT",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BEGUN",
+            "const_name_english": "BEGUN",
+            "candidate_name": "SURESH DHAKAD",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BEHROR",
+            "const_name_english": "BEHROR",
+            "candidate_name": "JASWANT SINGH YADAV",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BHADRA",
+            "const_name_english": "BHADRA",
+            "candidate_name": "SANJEEV BENIWAL",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BHARATPUR",
+            "const_name_english": "BHARATPUR",
+            "candidate_name": "DR SUBHASH GARG",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BHILWARA",
+            "const_name_english": "BHILWARA",
+            "candidate_name": "ASHOK KUMAR KOTHARI",
+            "party_name": "IND",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BHIM",
+            "const_name_english": "BHIM",
+            "candidate_name": "HARI SINGH CHOUHAN",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BHINMAL",
+            "const_name_english": "BHINMAL",
+            "candidate_name": "SAMARJIT SINGH",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BHOPALGARH (SC)",
+            "const_name_english": "BHOPALGARH (SC)",
+            "candidate_name": "GEETA BARWAR",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BIKANER EAST",
+            "const_name_english": "BIKANER EAST",
+            "candidate_name": "SIDDHI KUMARI",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BIKANER WEST",
+            "const_name_english": "BIKANER WEST",
+            "candidate_name": "JETHANAND VYAS",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BILARA (SC)",
+            "const_name_english": "BILARA (SC)",
+            "candidate_name": "ARJUN LAL GARG",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "BUNDI",
+            "const_name_english": "BUNDI",
+            "candidate_name": "HARIMOHAN SHARMA",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "CHAKSU (SC)",
+            "const_name_english": "CHAKSU (SC)",
+            "candidate_name": "RAMAVTAR BAIRWA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "CHHABRA",
+            "const_name_english": "CHHABRA",
+            "candidate_name": "PRATAP SINGH",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "CHITTORGARH",
+            "const_name_english": "CHITTORGARH",
+            "candidate_name": "CHANDRABHAN SINGH CHOUHAN",
+            "party_name": "IND",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "CHOHTAN (SC)",
+            "const_name_english": "CHOHTAN (SC)",
+            "candidate_name": "ADURAM MEGHWAL",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "CHOMU",
+            "const_name_english": "CHOMU",
+            "candidate_name": "SHIKHA MEEL BARALA",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "CHORASI (ST)",
+            "const_name_english": "CHORASI (ST)",
+            "candidate_name": "RAJKUMAR ROAT",
+            "party_name": "BAP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "CHURU",
+            "const_name_english": "CHURU",
+            "candidate_name": "HARLAL SAHARAN",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "CIVIL LINES",
+            "const_name_english": "CIVIL LINES",
+            "candidate_name": "GOPAL SHARMA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "DAG (SC)",
+            "const_name_english": "DAG (SC)",
+            "candidate_name": "KALURAM MEGHWAL",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "DANTA RAMAGRH",
+            "const_name_english": "DANTA RAMAGRH",
+            "candidate_name": "VIRENDRA SINGH",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "DAUSA",
+            "const_name_english": "DAUSA",
+            "candidate_name": "MURARI LAL MEENA",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "DEEDWANA",
+            "const_name_english": "DEEDWANA",
+            "candidate_name": "YOONUS KHAN",
+            "party_name": "IND",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "DEEG-KUMHER",
+            "const_name_english": "DEEG-KUMHER",
+            "candidate_name": "DR. SHAILESH",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "DEGANA",
+            "const_name_english": "DEGANA",
+            "candidate_name": "AJAY SINGH KILAK",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "DEOLI - UNIARA",
+            "const_name_english": "DEOLI - UNIARA",
+            "candidate_name": "HARISH MEENA",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "DHARIYAWAD (ST)",
+            "const_name_english": "DHARIYAWAD (ST)",
+            "candidate_name": "THAVAR CHAND",
+            "party_name": "BAP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "DHOD (SC)",
+            "const_name_english": "DHOD (SC)",
+            "candidate_name": "GORDHAN VERMA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "DHOLPUR",
+            "const_name_english": "DHOLPUR",
+            "candidate_name": "SHOBHARANI KUSHWAH",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "DUDU (SC)",
+            "const_name_english": "DUDU (SC)",
+            "candidate_name": "PREM CHAND BAIRWA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "DUNGARGARH",
+            "const_name_english": "DUNGARGARH",
+            "candidate_name": "TARA CHAND SARASWAT",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "DUNGARPUR (ST)",
+            "const_name_english": "DUNGARPUR (ST)",
+            "candidate_name": "GANESH GHOGRA",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "FATEHPUR",
+            "const_name_english": "FATEHPUR",
+            "candidate_name": "HAKAM ALI",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "GANGANAGAR",
+            "const_name_english": "GANGANAGAR",
+            "candidate_name": "JAIDEEP BIHANI",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "GANGAPUR",
+            "const_name_english": "GANGAPUR",
+            "candidate_name": "RAMKESH MEENA",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "GARHI (ST)",
+            "const_name_english": "GARHI (ST)",
+            "candidate_name": "KAILASH CHANDRA MEENA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "GHATOL (ST)",
+            "const_name_english": "GHATOL (ST)",
+            "candidate_name": "NANALAL NINAMA",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "GOGUNDA (ST)",
+            "const_name_english": "GOGUNDA (ST)",
+            "candidate_name": "PRATAP LAL GAMETI",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "GUDHAMALANI",
+            "const_name_english": "GUDHAMALANI",
+            "candidate_name": "K K BISHNOI",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "HANUMANGARH",
+            "const_name_english": "HANUMANGARH",
+            "candidate_name": "GANESHRAJ BANSAL",
+            "party_name": "IND",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "HAWA MAHAL",
+            "const_name_english": "HAWA MAHAL",
+            "candidate_name": "BALMUKUND ACHARYA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "HINDAUN (SC)",
+            "const_name_english": "HINDAUN (SC)",
+            "candidate_name": "ANITA JATAV",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "HINDOLI",
+            "const_name_english": "HINDOLI",
+            "candidate_name": "ASHOK CHANDANA",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "JAHAZPUR",
+            "const_name_english": "JAHAZPUR",
+            "candidate_name": "GOPI CHAND MEENA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "JAISALMER",
+            "const_name_english": "JAISALMER",
+            "candidate_name": "CHOTU SINGH BHATI",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "JAITARAN",
+            "const_name_english": "JAITARAN",
+            "candidate_name": "AVINASH GEHLOT",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "JALORE (SC)",
+            "const_name_english": "JALORE (SC)",
+            "candidate_name": "JOGESHWAR GARG",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "JAMWA RAMGARH (ST)",
+            "const_name_english": "JAMWA RAMGARH (ST)",
+            "candidate_name": "MAHENDRA PAL MEENA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "JAYAL (SC)",
+            "const_name_english": "JAYAL (SC)",
+            "candidate_name": "DR. MANJU BAGHMAR",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "JHADOL (ST)",
+            "const_name_english": "JHADOL (ST)",
+            "candidate_name": "BABU LAL KHARADI",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "JHALRAPATAN",
+            "const_name_english": "JHALRAPATAN",
+            "candidate_name": "VASUNDHARA RAJE",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "JHOTWARA",
+            "const_name_english": "JHOTWARA",
+            "candidate_name": "RAJYAVARDHAN RATHORE",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "JHUNJHUNU",
+            "const_name_english": "JHUNJHUNU",
+            "candidate_name": "BRIJENDRA SINGH OLA",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "JODHPUR",
+            "const_name_english": "JODHPUR",
+            "candidate_name": "ATUL BHANSALI",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "KAMAN",
+            "const_name_english": "KAMAN",
+            "candidate_name": "NAUKSHAM CHAUDHARY",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "KAPASAN (SC)",
+            "const_name_english": "KAPASAN (SC)",
+            "candidate_name": "ARJUN LAL JINGAR",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "KARAULI",
+            "const_name_english": "KARAULI",
+            "candidate_name": "DARSHAN SINGH GURJAR",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "KATHUMAR (SC)",
+            "const_name_english": "KATHUMAR (SC)",
+            "candidate_name": "RAMESH KHINCHI",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "KEKRI",
+            "const_name_english": "KEKRI",
+            "candidate_name": "SHATRUGHAN GAUTAM",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "KESHORAIPATAN (SC)",
+            "const_name_english": "KESHORAIPATAN (SC)",
+            "candidate_name": "CL PREMI",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "KHAJUWALA (SC)",
+            "const_name_english": "KHAJUWALA (SC)",
+            "candidate_name": "VISHWANATH MEGHWAL",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "KHANDAR (SC)",
+            "const_name_english": "KHANDAR (SC)",
+            "candidate_name": "JITENDRA GOTHWAL",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "KHANDELA",
+            "const_name_english": "KHANDELA",
+            "candidate_name": "SUBHASH MEEL",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "KHANPUR",
+            "const_name_english": "KHANPUR",
+            "candidate_name": "SURESH GURJAR",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "KHERWARA (ST)",
+            "const_name_english": "KHERWARA (ST)",
+            "candidate_name": "DAYARAM PARMAR",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "KHETRI",
+            "const_name_english": "KHETRI",
+            "candidate_name": "DHARMPAL GURJAR",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "KHINWSAR",
+            "const_name_english": "KHINWSAR",
+            "candidate_name": "HANUMAN BENIWAL",
+            "party_name": "RLP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "KISHAN POLE",
+            "const_name_english": "KISHAN POLE",
+            "candidate_name": "AMIN KAGZI",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "KISHANGANJ (ST)",
+            "const_name_english": "KISHANGANJ (ST)",
+            "candidate_name": "LALIT MEENA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "KISHANGARH",
+            "const_name_english": "KISHANGARH",
+            "candidate_name": "VIKAS CHOUDHARY",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "KISHANGARH BAS",
+            "const_name_english": "KISHANGARH BAS",
+            "candidate_name": "DEEPCHAND KHERIYA",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "KOLAYAT",
+            "const_name_english": "KOLAYAT",
+            "candidate_name": "ANSHUMAAN SINGH BHATI",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "KOTA NORTH",
+            "const_name_english": "KOTA NORTH",
+            "candidate_name": "SHANTI KUMAR DHARIWAL",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "KOTA SOUTH",
+            "const_name_english": "KOTA SOUTH",
+            "candidate_name": "SANDEEP SHARMA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "KOTPUTLI",
+            "const_name_english": "KOTPUTLI",
+            "candidate_name": "HANSRAJ PATEL",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "KUMBHALGARH",
+            "const_name_english": "KUMBHALGARH",
+            "candidate_name": "SURENDRA SINGH RATHORE",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "KUSHALGARH (ST)",
+            "const_name_english": "KUSHALGARH (ST)",
+            "candidate_name": "RAMILA KHADIYA",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "LACHHMANGARH",
+            "const_name_english": "LACHHMANGARH",
+            "candidate_name": "GOVIND SINGH DOTASRA",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "LADNUN",
+            "const_name_english": "LADNUN",
+            "candidate_name": "MUKESH KUMAR BHAKAR",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "LADPURA",
+            "const_name_english": "LADPURA",
+            "candidate_name": "KALPANA DEVI",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "LALSOT (ST)",
+            "const_name_english": "LALSOT (ST)",
+            "candidate_name": "RAMBILAS MEENA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "LOHAWAT",
+            "const_name_english": "LOHAWAT",
+            "candidate_name": "GAJENDRASINGH KHINVSAR",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "LUNI",
+            "const_name_english": "LUNI",
+            "candidate_name": "JOGARAM PATEL",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "LUNKARANSAR",
+            "const_name_english": "LUNKARANSAR",
+            "candidate_name": "SUMIT GODARA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "MAHUWA",
+            "const_name_english": "MAHUWA",
+            "candidate_name": "RAJENDRA MEENA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "MAKRANA",
+            "const_name_english": "MAKRANA",
+            "candidate_name": "ZAKIR HUSSAIN GESAWAT",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "MALPURA",
+            "const_name_english": "MALPURA",
+            "candidate_name": "KANHAIYALAL CHOUDHARY",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "MALVIYA NAGAR",
+            "const_name_english": "MALVIYA NAGAR",
+            "candidate_name": "KALI CHARAN SARAF",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "MANDAL",
+            "const_name_english": "MANDAL",
+            "candidate_name": "UDAY LAL BHADANA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "MANDALGARH",
+            "const_name_english": "MANDALGARH",
+            "candidate_name": "GOPAL LAL SHARMA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "MANDAWA",
+            "const_name_english": "MANDAWA",
+            "candidate_name": "RITA CHOUDHARY",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "MANOHAR THANA",
+            "const_name_english": "MANOHAR THANA",
+            "candidate_name": "GOVIND PRASAD",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "MARWAR JUNCTION",
+            "const_name_english": "MARWAR JUNCTION",
+            "candidate_name": "KESARAM CHAUDHARY",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "MASUDA",
+            "const_name_english": "MASUDA",
+            "candidate_name": "VIRENDRA SINGH KANAWAT",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "MAVLI",
+            "const_name_english": "MAVLI",
+            "candidate_name": "PUSHKAR LAL DANGI",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "MERTA (SC)",
+            "const_name_english": "MERTA (SC)",
+            "candidate_name": "LAXMAN RAM MEGHWAL",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "MUNDAWAR",
+            "const_name_english": "MUNDAWAR",
+            "candidate_name": "LALIT KUMAR YADAV",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "NADBAI",
+            "const_name_english": "NADBAI",
+            "candidate_name": "JAGAT SINGH",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "NAGAR",
+            "const_name_english": "NAGAR",
+            "candidate_name": "JAWAHAR SINGH BEDAM",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "NAGAUR",
+            "const_name_english": "NAGAUR",
+            "candidate_name": "HARENDRA MRIDHA",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "NASIRABAD",
+            "const_name_english": "NASIRABAD",
+            "candidate_name": "RAMSWAROOP LAMBA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "NATHDWARA",
+            "const_name_english": "NATHDWARA",
+            "candidate_name": "VISHWARAJ SINGH MEWAR",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "NAWALGARH",
+            "const_name_english": "NAWALGARH",
+            "candidate_name": "VIKRAM JAKHAL",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "NAWAN",
+            "const_name_english": "NAWAN",
+            "candidate_name": "VIJAY SINGH CHAUDHARY",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "NEEM KA THANA",
+            "const_name_english": "NEEM KA THANA",
+            "candidate_name": "SURESH KUMAR MODI",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "NIMBAHERA",
+            "const_name_english": "NIMBAHERA",
+            "candidate_name": "SHRI CHAND KRIPLANI",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "NIWAI (SC)",
+            "const_name_english": "NIWAI (SC)",
+            "candidate_name": "RAMSAHAY VERMA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "NOHAR",
+            "const_name_english": "NOHAR",
+            "candidate_name": "AMIT CHACHAN",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "NOKHA",
+            "const_name_english": "NOKHA",
+            "candidate_name": "SUSHILA DUDI",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "OSIAN",
+            "const_name_english": "OSIAN",
+            "candidate_name": "BHERARAM CHOUDHARY",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "PACHPADRA",
+            "const_name_english": "PACHPADRA",
+            "candidate_name": "ARUN AMRA RAM CHOUDHARY",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "PALI",
+            "const_name_english": "PALI",
+            "candidate_name": "BHEEMRAJ BHATI",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "PARBATSAR",
+            "const_name_english": "PARBATSAR",
+            "candidate_name": "RAMNIWAS GAWRIYA",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "PHALODI",
+            "const_name_english": "PHALODI",
+            "candidate_name": "PABBARAM BISHNOI",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "PHULERA",
+            "const_name_english": "PHULERA",
+            "candidate_name": "VIDHYADHAR SINGH",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "PILANI (SC)",
+            "const_name_english": "PILANI (SC)",
+            "candidate_name": "PEETRAM KALA",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "PILIBANGA (SC)",
+            "const_name_english": "PILIBANGA (SC)",
+            "candidate_name": "VINOD GOTHWAL",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "PINDWARA ABU (ST)",
+            "const_name_english": "PINDWARA ABU (ST)",
+            "candidate_name": "SAMARAM GARASIYA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "PIPALDA",
+            "const_name_english": "PIPALDA",
+            "candidate_name": "CHETAN PATEL",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "POKARAN",
+            "const_name_english": "POKARAN",
+            "candidate_name": "PRATAP PURI MAHARAJ",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "PRATAPGARH (ST)",
+            "const_name_english": "PRATAPGARH (ST)",
+            "candidate_name": "HEMANT MEENA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "PUSHKAR",
+            "const_name_english": "PUSHKAR",
+            "candidate_name": "SURESH SINGH RAWAT",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "RAISINGHNAGAR (SC)",
+            "const_name_english": "RAISINGHNAGAR (SC)",
+            "candidate_name": "SOHANLAL NAYAK",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "RAJAKHERA",
+            "const_name_english": "RAJAKHERA",
+            "candidate_name": "ROHIT BOHRA",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "RAJGARH LAXMANGARH (ST)",
+            "const_name_english": "RAJGARH LAXMANGARH (ST)",
+            "candidate_name": "MANGI LAL MEENA",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "RAJSAMAND",
+            "const_name_english": "RAJSAMAND",
+            "candidate_name": "DEEPTI KIRAN MAHESHWARI",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "RAMGANJ MANDI (SC)",
+            "const_name_english": "RAMGANJ MANDI (SC)",
+            "candidate_name": "MADAN DILAWAR",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "RAMGARH",
+            "const_name_english": "RAMGARH",
+            "candidate_name": "ZUBER KHAN",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "RANIWARA",
+            "const_name_english": "RANIWARA",
+            "candidate_name": "RATAN DEWASI",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "RATANGARH",
+            "const_name_english": "RATANGARH",
+            "candidate_name": "PUSARAM GODARA",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "REODAR (SC)",
+            "const_name_english": "REODAR (SC)",
+            "candidate_name": "MOTIRAM KOLI",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SADULPUR",
+            "const_name_english": "SADULPUR",
+            "candidate_name": "MANOJ KUMAR S/O SWAI SINGH",
+            "party_name": "BSP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SADULSHAHAR",
+            "const_name_english": "SADULSHAHAR",
+            "candidate_name": "GURVEER SINGH BRAR",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SAGWARA (ST)",
+            "const_name_english": "SAGWARA (ST)",
+            "candidate_name": "SHANKARLAL DECHA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SAHARA",
+            "const_name_english": "SAHARA",
+            "candidate_name": "LADULAL PITALIYA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SALUMBER (ST)",
+            "const_name_english": "SALUMBER (ST)",
+            "candidate_name": "AMRIT LAL MEENA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SANCHORE",
+            "const_name_english": "SANCHORE",
+            "candidate_name": "JIVA RAM CHOUDHARY",
+            "party_name": "IND",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SANGANER",
+            "const_name_english": "SANGANER",
+            "candidate_name": "BHAJAN LAL SHARMA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SANGARIA",
+            "const_name_english": "SANGARIA",
+            "candidate_name": "ABHIMANYU POONIA",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SANGOD",
+            "const_name_english": "SANGOD",
+            "candidate_name": "HEERA LAL NAGAR",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SAPOTRA (ST)",
+            "const_name_english": "SAPOTRA (ST)",
+            "candidate_name": "HANSRAJ MEENA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SARDARPURA",
+            "const_name_english": "SARDARPURA",
+            "candidate_name": "ASHOK GEHLOT",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SARDARSHAHAR",
+            "const_name_english": "SARDARSHAHAR",
+            "candidate_name": "ANIL KUMAR SHARMA",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SAWAI MADHOPUR",
+            "const_name_english": "SAWAI MADHOPUR",
+            "candidate_name": "DR. KIRODI LAL MEENA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SHAHPURA",
+            "const_name_english": "SHAHPURA",
+            "candidate_name": "MANISH YADAV",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SHAHPURA (SC)",
+            "const_name_english": "SHAHPURA (SC)",
+            "candidate_name": "LALARAM BAIRWA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SHEO",
+            "const_name_english": "SHEO",
+            "candidate_name": "RAVINDRA SINGH BHATI",
+            "party_name": "IND",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SHERGARH",
+            "const_name_english": "SHERGARH",
+            "candidate_name": "BABU SINGH RATHORE",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SIKAR",
+            "const_name_english": "SIKAR",
+            "candidate_name": "RAJENDRA PAREEK",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SIKRAI (SC)",
+            "const_name_english": "SIKRAI (SC)",
+            "candidate_name": "VIKRAM BANSIWAL",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SIROHI",
+            "const_name_english": "SIROHI",
+            "candidate_name": "OTARAM DEVASI",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SIWANA",
+            "const_name_english": "SIWANA",
+            "candidate_name": "HAMEER SINGH BHAYAL",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SOJAT (SC)",
+            "const_name_english": "SOJAT (SC)",
+            "candidate_name": "SHOBHA CHAUHAN",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SOORSAGAR",
+            "const_name_english": "SOORSAGAR",
+            "candidate_name": "DEVENDRA JOSHI",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SRI MADHOPUR",
+            "const_name_english": "SRI MADHOPUR",
+            "candidate_name": "JHABAR SINGH KHARRA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SUJANGARH (SC)",
+            "const_name_english": "SUJANGARH (SC)",
+            "candidate_name": "MANOJ MEGHWAL",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SUMERPUR",
+            "const_name_english": "SUMERPUR",
+            "candidate_name": "JORARAM KUMAWAT",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SURAJGARH",
+            "const_name_english": "SURAJGARH",
+            "candidate_name": "SHARWAN KUMAR",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "SURATGARH",
+            "const_name_english": "SURATGARH",
+            "candidate_name": "DUNGAR RAM GEDAR",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "TARANAGAR",
+            "const_name_english": "TARANAGAR",
+            "candidate_name": "NARENDRA BUDANIYA",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "THANAGAZI",
+            "const_name_english": "THANAGAZI",
+            "candidate_name": "KANTI PRASAD MEENA",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "TIJARA",
+            "const_name_english": "TIJARA",
+            "candidate_name": "BABA BALAKNATH",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "TODABHIM (ST)",
+            "const_name_english": "TODABHIM (ST)",
+            "candidate_name": "GHANSHYAM MEHER",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "TONK",
+            "const_name_english": "TONK",
+            "candidate_name": "SACHIN PILOT",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "UDAIPUR",
+            "const_name_english": "UDAIPUR",
+            "candidate_name": "TARACHAND JAIN",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "UDAIPUR RURAL (ST)",
+            "const_name_english": "UDAIPUR RURAL (ST)",
+            "candidate_name": "PHOOL SINGH MEENA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "UDAIPURWATI",
+            "const_name_english": "UDAIPURWATI",
+            "candidate_name": "BHAGWANA RAM SAINI",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "VALLABH NAGAR",
+            "const_name_english": "VALLABH NAGAR",
+            "candidate_name": "UDAY LAL DANGI",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "VIDHYADHAR NAGAR",
+            "const_name_english": "VIDHYADHAR NAGAR",
+            "candidate_name": "DIYA KUMARI",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "VIRATNAGAR",
+            "const_name_english": "VIRATNAGAR",
+            "candidate_name": "KULDEEP DHANKAR",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "RAJASTHAN",
+            "const_name": "WEIR (SC)",
+            "const_name_english": "WEIR (SC)",
+            "candidate_name": "BAHADUR SINGH KOLI",
+            "party_name": "BJP",
+            "status": "WON"
+        }
+    ]
+}

@@ -1,0 +1,1844 @@
+{
+    "results": [
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "अंबाह",
+            "const_name_english": "AMBAH",
+            "candidate_name": "देवेंद्र रामनारायण सखवार",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "अटेर",
+            "const_name_english": "ATER",
+            "candidate_name": "हेमंत सत्यदेव कटारे",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "अनूपपुर",
+            "const_name_english": "ANUPPUR",
+            "candidate_name": "बिसाहु लाल सिंह",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "अमरपाटन",
+            "const_name_english": "AMARPATAN",
+            "candidate_name": "डॉ। राजेंद्र कुमार सिंह",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "अमरवाड़ा",
+            "const_name_english": "AMARWARA",
+            "candidate_name": "कमलेश प्रताप शाह",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "अमला",
+            "const_name_english": "AMLA",
+            "candidate_name": "डॉ। योगेश पंडाग्रे",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "अलीरजपुर",
+            "const_name_english": "ALIRAJPUR",
+            "candidate_name": "चौहान नागर सिंह",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "अशोक नगर",
+            "const_name_english": "ASHOK NAGAR",
+            "candidate_name": "हरिबाबू राय",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "आगर",
+            "const_name_english": "AGAR",
+            "candidate_name": "माधव सिंह (मधु गेहलोट)",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "आलोट",
+            "const_name_english": "ALOT",
+            "candidate_name": "डॉ चिंतामण मालवीय",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "आष्टा",
+            "const_name_english": "ASHTA",
+            "candidate_name": "गोपाल सिंह इंजीनियर",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "इंदौर -1",
+            "const_name_english": "INDORE-1",
+            "candidate_name": "कैलाश विजयवर्गीय",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "इंदौर -2",
+            "const_name_english": "INDORE-2",
+            "candidate_name": "रमेश मेंडोला",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "इंदौर -3",
+            "const_name_english": "INDORE-3",
+            "candidate_name": "गोलू शुक्ला राकेश",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "इंदौर -4",
+            "const_name_english": "INDORE-4",
+            "candidate_name": "मालिनी लक्ष्मणसिंह गौर",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "इंदौर -5",
+            "const_name_english": "INDORE-5",
+            "candidate_name": "महेन्द्र हार्डिया",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "इच्छावर",
+            "const_name_english": "ICHHAWAR",
+            "candidate_name": "करण सिंह वर्मा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "उज्जैन उत्तर",
+            "const_name_english": "UJJAIN UTTAR",
+            "candidate_name": "अनिल जैन कालुहेडा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "उज्जैन दक्षिण",
+            "const_name_english": "UJJAIN DAKSHIN",
+            "candidate_name": "डॉ मोहन यादव",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "उदयपुरा",
+            "const_name_english": "UDAIPURA",
+            "candidate_name": "नरेंद्र शिवाजी पटेल",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "कटांगी",
+            "const_name_english": "KATANGI",
+            "candidate_name": "गौरव सिंह पराधी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "करेरा",
+            "const_name_english": "KARERA",
+            "candidate_name": "रमेश प्रसाद खटीक",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "कलापिपाल",
+            "const_name_english": "KALAPIPAL",
+            "candidate_name": "घनश्याम चंद्रवंशी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "कसरावद",
+            "const_name_english": "KASRAWAD",
+            "candidate_name": "सचिन सुभाष चंद्र यादव",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "कुक्ष",
+            "const_name_english": "KUKSHI",
+            "candidate_name": "सुरेन्द्र सिंह बघेल हनी",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "कुरवाई",
+            "const_name_english": "KURWAI",
+            "candidate_name": "हरि सिंह सप्रे",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "केओलेरी",
+            "const_name_english": "KEOLARI",
+            "candidate_name": "रजनीश हरवंश सिंह",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "कोतमा",
+            "const_name_english": "KOTMA",
+            "candidate_name": "दिलीप जायसवाल",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "कोलारस",
+            "const_name_english": "KOLARAS",
+            "candidate_name": "महेंद्र रामसिंह यादव",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "खंडवा",
+            "const_name_english": "KHANDWA",
+            "candidate_name": "कंचन मुकेश तनवे",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "खरगापुर",
+            "const_name_english": "KHARGAPUR",
+            "candidate_name": "चंदा-सूरेंद्र सिंह गौर",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "खरगोन",
+            "const_name_english": "KHARGONE",
+            "candidate_name": "बालकृष्ण पाटीदार",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "खातेगांव",
+            "const_name_english": "KHATEGAON",
+            "candidate_name": "आशीष गोविंद शर्मा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "खिलचिपुर",
+            "const_name_english": "KHILCHIPUR",
+            "candidate_name": "हजारीलाल डांगी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "खुराई",
+            "const_name_english": "KHURAI",
+            "candidate_name": "भूपेंद्र सिंह",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "गरोठ",
+            "const_name_english": "GAROTH",
+            "candidate_name": "चंद्र सिंह सिसोदिया",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "गांधवानी",
+            "const_name_english": "GANDHWANI",
+            "candidate_name": "उमंग सिगार",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "गाडरवारा",
+            "const_name_english": "GADARWARA",
+            "candidate_name": "उदय प्रताप सिंह",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "गुढ",
+            "const_name_english": "GURH",
+            "candidate_name": "नागेंद्र सिंह",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "गुना",
+            "const_name_english": "GUNA",
+            "candidate_name": "पन्ना लाल शाक्य",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "गुन्नौर",
+            "const_name_english": "GUNNAOR",
+            "candidate_name": "राजेश कुमार वर्मा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "गोटेगाँव",
+            "const_name_english": "GOTEGAON",
+            "candidate_name": "महेंद्र नागेश",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "गोविंदपुरा",
+            "const_name_english": "GOVINDPURA",
+            "candidate_name": "कृष्ण गौर",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "गोहद",
+            "const_name_english": "GOHAD",
+            "candidate_name": "केशव देसाई",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "ग्वालियर",
+            "const_name_english": "GWALIOR",
+            "candidate_name": "प्रद्युम्न सिंह तोमर",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "ग्वालियर ईस्ट",
+            "const_name_english": "GWALIOR EAST",
+            "candidate_name": "डॉ सतीश सिंह सिकरवार",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "ग्वालियर ग्रामीण",
+            "const_name_english": "GWALIOR RURAL",
+            "candidate_name": "साहब सिंह गुर्जर",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "ग्वालियर साउथ",
+            "const_name_english": "GWALIOR SOUTH",
+            "candidate_name": "नारायण सिंह कुशवाह",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "घटिया",
+            "const_name_english": "GHATIYA",
+            "candidate_name": "सतीश मालविया",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "घोड़ाडोंगरी",
+            "const_name_english": "GHORADONGRI",
+            "candidate_name": "गंगा सज्जन सिंह उइके",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "चंदला",
+            "const_name_english": "CHANDLA",
+            "candidate_name": "दिलीप अहिरवार",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "चंदेरी",
+            "const_name_english": "CHANDERI",
+            "candidate_name": "जगन्नाथ सिंह रघुवंशी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "चाचौड़ा",
+            "const_name_english": "CHACHOURA",
+            "candidate_name": "प्रियंका पेनची",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "चितरंगी",
+            "const_name_english": "CHITRANGI",
+            "candidate_name": "राधा सिंह",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "चित्रकूट",
+            "const_name_english": "CHITRAKOOT",
+            "candidate_name": "सुरेन्द्र सिंह गहरवार",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "चुरहट",
+            "const_name_english": "CHURHAT",
+            "candidate_name": "अजय अर्जुन सिंह",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "चौरई",
+            "const_name_english": "CHURAI",
+            "candidate_name": "चौधरी सुजीत मेर सिंह",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "छतरपुर",
+            "const_name_english": "CHHATARPUR",
+            "candidate_name": "ललिता यादव",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "छिंदवाड़ा",
+            "const_name_english": "CHHINDWARA",
+            "candidate_name": "कमल नाथ",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "जतारा",
+            "const_name_english": "JATARA",
+            "candidate_name": "हरिंशँकर खटीक",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "जबलपुर उत्तर",
+            "const_name_english": "JABALPUR UTTAR",
+            "candidate_name": "अभिलाश पांडे",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "जबलपुर कैंट।",
+            "const_name_english": "JABALPUR CANTT.",
+            "candidate_name": "अशोक ईश्वरदास रोहाणी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "जबलपुर पश्चिम",
+            "const_name_english": "JABALPUR PASCHIM",
+            "candidate_name": "राकेश सिंह",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "जबलपुर पूर्व",
+            "const_name_english": "JABALPUR PURBA",
+            "candidate_name": "लखन घनघोरिया",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "जबेरा",
+            "const_name_english": "JABERA",
+            "candidate_name": "धमेन्द्र भाव सिंह लोधी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "जयसिंगनगर",
+            "const_name_english": "JAISINGHNAGAR",
+            "candidate_name": "मनीषा सिंह",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "जावद",
+            "const_name_english": "JAWAD",
+            "candidate_name": "ओमप्रकाश साखलेचा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "जावरा",
+            "const_name_english": "JAORA",
+            "candidate_name": "राजेंद्र पांडे (राजू भैया)",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "जुन्नारदेव",
+            "const_name_english": "JUNNARDEO",
+            "candidate_name": "सुनील उइके",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "जेटपुर",
+            "const_name_english": "JAITPUR",
+            "candidate_name": "जयसिंह मरावी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "जोबट",
+            "const_name_english": "JOBAT",
+            "candidate_name": "सेना - महेश पटेल",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "जौरा",
+            "const_name_english": "JAURA",
+            "candidate_name": "पंकज उपाध्याय",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "झाबुआ",
+            "const_name_english": "JHABUA",
+            "candidate_name": "डॉ। विक्रांत भुरिया",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "टिमरनी",
+            "const_name_english": "TIMARNI",
+            "candidate_name": "अभिजीत शाह (अंकित बाबा)",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "टीकमगढ",
+            "const_name_english": "TIKAMGARH",
+            "candidate_name": "यदवेंद्र सिंह (जग्गु भिया)",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "डबरा",
+            "const_name_english": "DABRA",
+            "candidate_name": "सुरेश राजे",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "डिंडोरी",
+            "const_name_english": "DINDORI",
+            "candidate_name": "ओंकार सिंह मरकाम",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "तराना",
+            "const_name_english": "TARANA",
+            "candidate_name": "महेश परमार",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "तेंदूखेड़े",
+            "const_name_english": "TENDUKHEDA",
+            "candidate_name": "विश्वनाथ सिंह (मुलम भैय)",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "त्योंथर",
+            "const_name_english": "TEONTHAR",
+            "candidate_name": "सिद्धार्थ तिवारी 'राज'",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "थंदला",
+            "const_name_english": "THANDLA",
+            "candidate_name": "वीरसिंह भुरिया",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "दतिया",
+            "const_name_english": "DATIA",
+            "candidate_name": "भारती राजेंद्र",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "दमोह",
+            "const_name_english": "DAMOH",
+            "candidate_name": "जयंत मलैया",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "दिमनी",
+            "const_name_english": "DIMANI",
+            "candidate_name": "नरेंद्र सिंह तोमर",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "देओतलाब",
+            "const_name_english": "DEOTALAB",
+            "candidate_name": "गिरीश गौतम",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "देपालपुर",
+            "const_name_english": "DEPALPUR",
+            "candidate_name": "मनोज निर्भय सिंह पटेल",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "देवरी",
+            "const_name_english": "DEORI",
+            "candidate_name": "बृजबिहारी पटैरिया गुड्डा भैय्या",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "देवसर",
+            "const_name_english": "DEVSAR",
+            "candidate_name": "राजेंद्र मेशराम",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "देवास",
+            "const_name_english": "DEWAS",
+            "candidate_name": "गायत्री राजे पवार",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "धरमपुरी",
+            "const_name_english": "DHARAMPURI",
+            "candidate_name": "कलुसिंह ठाकुर",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "धार",
+            "const_name_english": "DHAR",
+            "candidate_name": "नीना विक्रम वर्मा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "धौहनी",
+            "const_name_english": "DHAUHANI",
+            "candidate_name": "कुंवर सिंह टेकम",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "नरसिंगपुर",
+            "const_name_english": "NARSINGPUR",
+            "candidate_name": "प्रहलाद सिंह पटेल",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "नरसिंहगढ़",
+            "const_name_english": "NARSINGHGARH",
+            "candidate_name": "मोहन शर्मा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "नरियावली",
+            "const_name_english": "NARYOLI",
+            "candidate_name": "इंजी. प्रदीप लारिया",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "नरेला",
+            "const_name_english": "NARELA",
+            "candidate_name": "विश्वास सांरंग",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "नागदा खाचरोद",
+            "const_name_english": "NAGADA-KHACHROD",
+            "candidate_name": "तेजबहादुर सिंह चौहान",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "नागौद",
+            "const_name_english": "NAGOD",
+            "candidate_name": "नागेंद्र सिंह",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "निवाड़ी",
+            "const_name_english": "NIWARI",
+            "candidate_name": "अनिल जैन",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "निवास",
+            "const_name_english": "NIWAS",
+            "candidate_name": "चेन सिंह वर्केडे",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "नीमच",
+            "const_name_english": "NEEMUCH",
+            "candidate_name": "दिलीप सिंह परिहार",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "नेपनगर",
+            "const_name_english": "NEPANAGAR",
+            "candidate_name": "मंजू राजेंद्र दादु",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "पंधना",
+            "const_name_english": "PANDHANA",
+            "candidate_name": "छाया मोरे",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "पंधुरना",
+            "const_name_english": "PANDHURNA",
+            "candidate_name": "नीलेश पुसाराम उइके",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "पथरिया",
+            "const_name_english": "PATHARIYA",
+            "candidate_name": "लखन पटेल",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "पनागर",
+            "const_name_english": "PANAGAR",
+            "candidate_name": "सुशील कुमार तिवारी (इंदू भैया",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "पन्ना",
+            "const_name_english": "PANNA",
+            "candidate_name": "बृजेंद्र प्रताप सिंह",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "पवई",
+            "const_name_english": "PAWAI",
+            "candidate_name": "प्रहलाद लोधी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "पाटन",
+            "const_name_english": "PATAN",
+            "candidate_name": "अजय विश्नोई",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "पानसेमल",
+            "const_name_english": "PANSEMAL",
+            "candidate_name": "श्याम बर्द",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "पारसवाड़ा",
+            "const_name_english": "PARASWADA",
+            "candidate_name": "मधु भाऊ भगत",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "पिछोर",
+            "const_name_english": "PICHHORE",
+            "candidate_name": "प्रीतम लोधी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "पिपरिया",
+            "const_name_english": "PIPARIYA",
+            "candidate_name": "ठाकुरदास नागवंशी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "पुष्परजगढ़",
+            "const_name_english": "PUSHPRAJGARH",
+            "candidate_name": "फुंदेलाल सिंह मार्को",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "पृथ्वीपुर",
+            "const_name_english": "PRITHVIPUR",
+            "candidate_name": "नीतेन्द्र बृजेन्द्र सिंह राठौर",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "पेटलावाड",
+            "const_name_english": "PETLAWAD",
+            "candidate_name": "निर्मला दिलीपसिंह भुरिया",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "पेरासिया",
+            "const_name_english": "PARASIA",
+            "candidate_name": "सोहनलाल बाल्मिकी",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "पोहरी",
+            "const_name_english": "POHARI",
+            "candidate_name": "कैलाश कुशवाह",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "बडनगर",
+            "const_name_english": "BADNAGAR",
+            "candidate_name": "जितेंद्र उदय सिंह पांड्या",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "बडवानी",
+            "const_name_english": "BADWANI",
+            "candidate_name": "राजन मंडलोई",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "बडवाह",
+            "const_name_english": "BADWAH",
+            "candidate_name": "सचिन बिड़ला",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "बदनावर",
+            "const_name_english": "BADNAWAR",
+            "candidate_name": "भंवरसिंह शेखावत",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "बमोरी",
+            "const_name_english": "BAMORI",
+            "candidate_name": "ऋषि अग्रवाल",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "बरगी",
+            "const_name_english": "BARGI",
+            "candidate_name": "नीरज सिंह लोधी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "बरघाट",
+            "const_name_english": "BARGHAT",
+            "candidate_name": "कमल मार्स्कोल",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "बरवाड़ा",
+            "const_name_english": "BARWARA",
+            "candidate_name": "धीरेंद्र बहादुर सिंह धिरू",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "बहरीबंद",
+            "const_name_english": "BAHORIBAND",
+            "candidate_name": "प्राणय प्रभात पांडे (गुड्डू बी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "बाँदा",
+            "const_name_english": "BANDA",
+            "candidate_name": "वीरेंद्र सिंह लोधी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "बांधवगढ़",
+            "const_name_english": "BANDHAVGARH",
+            "candidate_name": "शिवनारायण ज्ञान सिंह (लल्लू बी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "बागली",
+            "const_name_english": "BAGLI",
+            "candidate_name": "मुरली भवारा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "बालाघाट",
+            "const_name_english": "BALAGHAT",
+            "candidate_name": "अनुभा मुंजारे",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "बासौदा",
+            "const_name_english": "BASODA",
+            "candidate_name": "हरी सिंह रघुवंशी बड्डा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "बिछिया",
+            "const_name_english": "BICHHIYA",
+            "candidate_name": "नारायण सिंह पट्टा",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "बिजावर",
+            "const_name_english": "BIJAWAR",
+            "candidate_name": "बबलू राजेश शुक्ला",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "बीना",
+            "const_name_english": "BINA",
+            "candidate_name": "एड. निर्मला सप्रे",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "बुधनी",
+            "const_name_english": "BUDHNI",
+            "candidate_name": "शिवराज सिंह चौहान",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "बुरहानपुर",
+            "const_name_english": "BURHANPUR",
+            "candidate_name": "अर्चना चिटणीस",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "बेओहारी",
+            "const_name_english": "BEOHARI",
+            "candidate_name": "शरद जुगलाल कोल",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "बेतुल",
+            "const_name_english": "BETUL",
+            "candidate_name": "हेमंत विजय खंडेलवाल",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "बैरसिया",
+            "const_name_english": "BERASIA",
+            "candidate_name": "विष्णु खत्री",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "बैहर",
+            "const_name_english": "BAIHAR",
+            "candidate_name": "संजय उइके",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "ब्यावरा",
+            "const_name_english": "BIAORA",
+            "candidate_name": "नारायण सिंह पंवार",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "भगवानपुरा",
+            "const_name_english": "BHAGWANPURA",
+            "candidate_name": "केदार चिदाभाई डावर",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "भांडेर",
+            "const_name_english": "BHANDER",
+            "candidate_name": "फुलसिंह बरैया",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "भिंड",
+            "const_name_english": "BHIND",
+            "candidate_name": "नरेंद्र सिंह कुशवाह",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "भितरवार",
+            "const_name_english": "BHITARWAR",
+            "candidate_name": "मोहन सिंह राथोर",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "भीकनगांव",
+            "const_name_english": "BHIKANGAON",
+            "candidate_name": "श्रीमती झुमा",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "भैंसदेही",
+            "const_name_english": "BHAINSDEHI",
+            "candidate_name": "महेन्द्र सिंह केशर सिंह सीए",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "भोजपुर",
+            "const_name_english": "BHOJPUR",
+            "candidate_name": "सुरेंद्र पटवा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "भोपाल उत्तर",
+            "const_name_english": "BHOPAL UTTAR",
+            "candidate_name": "आतिफ आरिफ अकील",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "भोपाल दक्षिन-पास्ची",
+            "const_name_english": "BHOPAL DAKSHIN-PASCHI",
+            "candidate_name": "भगवानदास सबनानी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "भोपाल मध्य",
+            "const_name_english": "BHOPAL MADHYA",
+            "candidate_name": "आरिफ मसूद",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "मंडला",
+            "const_name_english": "MANDLA",
+            "candidate_name": "संपतिया उइके",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "मंदसौर",
+            "const_name_english": "MANDSOUR",
+            "candidate_name": "विपिन जैन",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "मंधाता",
+            "const_name_english": "MANDHATA",
+            "candidate_name": "नारायण पटेल",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "मऊगंज",
+            "const_name_english": "MAUGANJ",
+            "candidate_name": "प्रदीप पटेल",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "मनगवा",
+            "const_name_english": "MANGAWAN",
+            "candidate_name": "इंजीनियर नरेंद्र प्रजापति",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "मनपुर",
+            "const_name_english": "MANPUR",
+            "candidate_name": "मीना सिंह",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "मनवार",
+            "const_name_english": "MANAWAR",
+            "candidate_name": "डॉ। हिरालाल अलावा",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "मनसा",
+            "const_name_english": "MANASA",
+            "candidate_name": "अनिरुद्ध (माधव) मारू",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "मल्हारगढ़",
+            "const_name_english": "MALHARGARH",
+            "candidate_name": "जगदीश देवड़ा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "मल्हारा",
+            "const_name_english": "MALHARA",
+            "candidate_name": "बहिन रामसिया भारती",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "महाराजपुर",
+            "const_name_english": "MAHARAJPUR",
+            "candidate_name": "कामाख्या प्रताप सिंह टेकारा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "महिदपुर",
+            "const_name_english": "MAHIDPUR",
+            "candidate_name": "दिनेश जैन बॉस",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "महू",
+            "const_name_english": "MAHU",
+            "candidate_name": "उषा बाबू सिंह ठाकुर",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "महेश्वर",
+            "const_name_english": "MAHESHWAR",
+            "candidate_name": "राजकुमार मेव",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "मुंगावली",
+            "const_name_english": "MUNGAOLI",
+            "candidate_name": "ब्रजेंद्र सिंह यादव",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "मुरवाड़ा",
+            "const_name_english": "MURWARA",
+            "candidate_name": "संदीप श्रीप्रसाद जायसवाल",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "मुरैना",
+            "const_name_english": "MORENA",
+            "candidate_name": "दिनेश गुर्जर",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "मुल्ताई",
+            "const_name_english": "MULTAI",
+            "candidate_name": "चंद्रशेखर देशमुख",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "मेहगांव",
+            "const_name_english": "MEHGAON",
+            "candidate_name": "राकेश शुक्ला",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "मैहर",
+            "const_name_english": "MAIHAR",
+            "candidate_name": "श्रीकांत चतुर्वेदी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "रतलाम सिटी",
+            "const_name_english": "RATLAM CITY",
+            "candidate_name": "चैतन्य कश्यप भैय्याजी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "रत्लाम ग्रामीण",
+            "const_name_english": "RATLAM RURAL",
+            "candidate_name": "मथुरा लाल दामार",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "राऊ",
+            "const_name_english": "RAU",
+            "candidate_name": "मधु वर्मा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "राघोगढ़",
+            "const_name_english": "RAGHOGARH",
+            "candidate_name": "जयवर्धन सिंह",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "राजगढ़",
+            "const_name_english": "RAJGARH",
+            "candidate_name": "अमर सिंह यादव",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "राजनगर",
+            "const_name_english": "RAJNAGAR",
+            "candidate_name": "अरविंद पटेरिया",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "राजपुर",
+            "const_name_english": "RAJPUR",
+            "candidate_name": "बाला बच्चन",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "रामपुर-बागेलन",
+            "const_name_english": "RAMPUR-BAGHELAN",
+            "candidate_name": "विक्रम सिंह (विक्की)",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "रीवा",
+            "const_name_english": "REWA",
+            "candidate_name": "राजेंद्र शुक्ला",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "रेहली",
+            "const_name_english": "REHLI",
+            "candidate_name": "गोपाल भार्गव",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "रैगांव",
+            "const_name_english": "RAIGAON",
+            "candidate_name": "प्रतिमा बागरी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "लखनादौन",
+            "const_name_english": "LAKHNADON",
+            "candidate_name": "योगेंद्र सिंह बाबा",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "लहार",
+            "const_name_english": "LAHAR",
+            "candidate_name": "अम्बरीश शर्मा गुड्डू",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "लांजी",
+            "const_name_english": "LANJI",
+            "candidate_name": "राजकुमार कर्राहे",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "वारासिवनी",
+            "const_name_english": "WARASEONI",
+            "candidate_name": "विवेक विक्की पटेल",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "विजयपुर",
+            "const_name_english": "VIJAYPUR",
+            "candidate_name": "रामनिवास रावत",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "विजयराघवगढ़",
+            "const_name_english": "VIJAYRAGHAVGARH",
+            "candidate_name": "संजय सत्येंद्र पाठक",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "विदिशा",
+            "const_name_english": "VIDISHA",
+            "candidate_name": "मुकेश टंडन",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "शजापुर",
+            "const_name_english": "SHAJAPUR",
+            "candidate_name": "अरुण भीमावद",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "शमशबाद",
+            "const_name_english": "SHAMSHABAD",
+            "candidate_name": "सूर्य प्रकाश मीना",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "शाहपुरा",
+            "const_name_english": "SHAHPURA",
+            "candidate_name": "ओमप्रकाश धुरवे",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "शिवपुरी",
+            "const_name_english": "SHIVPURI",
+            "candidate_name": "देवेंद्र कुमार जैन 'पैट वेले",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "शुजलपुर",
+            "const_name_english": "SHUJALPUR",
+            "candidate_name": "इंदर सिंह परमार",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "श्योपुर",
+            "const_name_english": "SHEOPUR",
+            "candidate_name": "बाबू जंडेल",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सतना",
+            "const_name_english": "SATNA",
+            "candidate_name": "डब्बू सिध्दार्थ सिंह सुखलाल कुशवाहा",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सबलगढ",
+            "const_name_english": "SABALAGADH",
+            "candidate_name": "श्रीमती। सरला विजेंद्र रावत",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सरंगपुर",
+            "const_name_english": "SARANGPUR",
+            "candidate_name": "गौतम टेटवाल",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सरदारपुर",
+            "const_name_english": "SARDARPUR",
+            "candidate_name": "प्रताप ग्रेवाल",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सांची",
+            "const_name_english": "SANCHI",
+            "candidate_name": "डॉ। प्रभुराम चौधरी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सांवेर",
+            "const_name_english": "SANWER",
+            "candidate_name": "तुलसी राम सिलावट",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सागर",
+            "const_name_english": "SAGAR",
+            "candidate_name": "शैलेन्द्र कुमार जैन",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सिंगरौली",
+            "const_name_english": "SINGRAULI",
+            "candidate_name": "राम नीवास शाह",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सिरमौर",
+            "const_name_english": "SIRMOUR",
+            "candidate_name": "दिव्यराज सिंह",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सिरोंज",
+            "const_name_english": "SIRONJ",
+            "candidate_name": "उमा कांत शर्मा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सिलवानी",
+            "const_name_english": "SILWANI",
+            "candidate_name": "देवेंद्र पटेल",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सिवनी",
+            "const_name_english": "SEONI",
+            "candidate_name": "दिनेश राय मुनमुन",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सिवनी मालवा",
+            "const_name_english": "SEONI-MALWA",
+            "candidate_name": "प्रेमशंकर कुंजिलाल वर्मा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सिहावाल",
+            "const_name_english": "SIHAWAL",
+            "candidate_name": "विश्वामित्र पाठक",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सिहोरा",
+            "const_name_english": "SIHORA",
+            "candidate_name": "संतोष वर्कडे",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सीधी",
+            "const_name_english": "SIDHI",
+            "candidate_name": "रीति पाठक",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सीहोर",
+            "const_name_english": "SEHORE",
+            "candidate_name": "सुदेश राय",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सुमावली",
+            "const_name_english": "SUMAWALI",
+            "candidate_name": "एंदल सिंह कंसाना",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सुरखी",
+            "const_name_english": "SURKHI",
+            "candidate_name": "गोविंद सिंह राजपूत",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सुवासरा",
+            "const_name_english": "SUWASRA",
+            "candidate_name": "हरदीप सिंह डंग",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सुसनैर",
+            "const_name_english": "SUSNER",
+            "candidate_name": "भैरोन सिंह (बापू)",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सेंधवा",
+            "const_name_english": "SENDHWA",
+            "candidate_name": "मोंटू सोलंकी",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सेमरिया",
+            "const_name_english": "SEMARIYA",
+            "candidate_name": "अभय मिश्रा",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सेलाना",
+            "const_name_english": "SAILANA",
+            "candidate_name": "कमलेश्वर डोडियार",
+            "party_name": "बाप",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सेवढा",
+            "const_name_english": "SEWDA",
+            "candidate_name": "प्रदीप अग्रवाल",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सोनकच",
+            "const_name_english": "SONKATCH",
+            "candidate_name": "डॉ। राजेश सोनकर",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सोहगपुर",
+            "const_name_english": "SOHAGPUR",
+            "candidate_name": "विजयपाल सिंह",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "सौनसर",
+            "const_name_english": "SAUNSAR",
+            "candidate_name": "विजय रेवनाथ कोरे",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "हटा",
+            "const_name_english": "HATTA",
+            "candidate_name": "श्रीमती उमा देवी लालचंद खटीक",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "हरदा",
+            "const_name_english": "HARDA",
+            "candidate_name": "डॉ रामकिशोर दोगने",
+            "party_name": "कांग्रेस",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "हरसूद",
+            "const_name_english": "HARSUD",
+            "candidate_name": "कुंवर विजय शाह",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "हाटपिपल्या",
+            "const_name_english": "HATPIPLIYA",
+            "candidate_name": "मनोज नारायण चौधरी",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "हुजुर",
+            "const_name_english": "HUZUR",
+            "candidate_name": "रामेश्वर शर्मा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        },
+        {
+            "state_name": "मध्य प्रदेश",
+            "const_name": "होशंगाबाद",
+            "const_name_english": "HOSHANGABAD",
+            "candidate_name": "डॉ। सीता सरन शर्मा",
+            "party_name": "भाजपा",
+            "status": "WON"
+        }
+    ]
+}

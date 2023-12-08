@@ -1,0 +1,175 @@
+{
+    "totalresults": [
+        {
+            "state_id": 32,
+            "party_name": "BRS",
+            "lead": "0",
+            "won": "39",
+            "total": 39,
+            "change": "-49"
+        },
+        {
+            "state_id": 32,
+            "party_name": "INC",
+            "lead": "0",
+            "won": "64",
+            "total": 64,
+            "change": "+45"
+        },
+        {
+            "state_id": 32,
+            "party_name": "BJP",
+            "lead": "0",
+            "won": "8",
+            "total": 8,
+            "change": "+7"
+        },
+        {
+            "state_id": 32,
+            "party_name": "AIMIM",
+            "lead": "0",
+            "won": "7",
+            "total": 7,
+            "change": ""
+        },
+        {
+            "state_id": 32,
+            "party_name": "OTHERS",
+            "lead": "0",
+            "won": "1",
+            "total": 1,
+            "change": "-3"
+        },
+        {
+            "state_id": 32,
+            "total_seats": 119,
+            "won_seats": 119,
+            "lead_seats": 0,
+            "total_count": 119
+        },
+        {
+            "state_id": 29,
+            "party_name": "BJP",
+            "lead": "0",
+            "won": "115",
+            "total": 115,
+            "change": "+42"
+        },
+        {
+            "state_id": 29,
+            "party_name": "INC",
+            "lead": "0",
+            "won": "70",
+            "total": 70,
+            "change": "-30"
+        },
+        {
+            "state_id": 29,
+            "party_name": "OTHERS",
+            "lead": "0",
+            "won": "14",
+            "total": 14,
+            "change": "-13"
+        },
+        {
+            "state_id": 29,
+            "total_seats": 199,
+            "won_seats": 199,
+            "lead_seats": 0,
+            "total_count": 199
+        },
+        {
+            "state_id": 20,
+            "party_name": "BJP",
+            "lead": "0",
+            "won": "163",
+            "total": 163,
+            "change": "+36"
+        },
+        {
+            "state_id": 20,
+            "party_name": "INC",
+            "lead": "0",
+            "won": "66",
+            "total": 66,
+            "change": "-30"
+        },
+        {
+            "state_id": 20,
+            "party_name": "OTHERS",
+            "lead": "0",
+            "won": "1",
+            "total": 1,
+            "change": "-6"
+        },
+        {
+            "state_id": 20,
+            "total_seats": 230,
+            "won_seats": 230,
+            "lead_seats": 0,
+            "total_count": 230
+        },
+        {
+            "state_id": 7,
+            "party_name": "BJP",
+            "lead": "0",
+            "won": "54",
+            "total": 54,
+            "change": "+39"
+        },
+        {
+            "state_id": 7,
+            "party_name": "INC",
+            "lead": "0",
+            "won": "35",
+            "total": 35,
+            "change": "-33"
+        },
+        {
+            "state_id": 7,
+            "party_name": "OTHERS",
+            "lead": "0",
+            "won": "1",
+            "total": 1,
+            "change": "-6"
+        },
+        {
+            "state_id": 7,
+            "total_seats": 90,
+            "won_seats": 90,
+            "lead_seats": 0,
+            "total_count": 90
+        },
+        {
+            "state_id": 24,
+            "party_name": "MNF",
+            "lead": "0",
+            "won": "0",
+            "total": 0,
+            "change": ""
+        },
+        {
+            "state_id": 24,
+            "party_name": "ZPM",
+            "lead": "0",
+            "won": "0",
+            "total": 0,
+            "change": ""
+        },
+        {
+            "state_id": 24,
+            "party_name": "OTHERS",
+            "lead": "0",
+            "won": "0",
+            "total": 0,
+            "change": ""
+        },
+        {
+            "state_id": 24,
+            "total_seats": 40,
+            "won_seats": 0,
+            "lead_seats": 0,
+            "total_count": 0
+        }
+    ]
+}

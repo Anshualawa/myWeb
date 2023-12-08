@@ -1,0 +1,412 @@
+{
+    "results": [
+        {
+            "cand_pic": "AJAY_ARJUN_SINGH.jpg",
+            "cand_name": "अजय अर्जुन सिंह",
+            "cand_name_english": "AJAY ARJUN SINGH",
+            "party_name": "कांग्रेस",
+            "const_name": "चुरहट",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "ALOK_SHARMA.jpg",
+            "cand_name": "अलोक शर्मा",
+            "cand_name_english": "ALOK SHARMA",
+            "party_name": "भाजपा",
+            "const_name": "भोपाल उत्तर",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "ARIF_MASOOD.jpg",
+            "cand_name": "आरिफ मसूद",
+            "cand_name_english": "ARIF MASOOD",
+            "party_name": "कांग्रेस",
+            "const_name": "भोपाल मध्य",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "Inder_Singh_Parmar.jpg",
+            "cand_name": "इंदर सिंह परमार",
+            "cand_name_english": "INDER SINGH PARMAR",
+            "party_name": "भाजपा",
+            "const_name": "शुजलपुर",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "Imarti_Devi.jpg",
+            "cand_name": "इमरती देवी",
+            "cand_name_english": "IMARTI DEVI",
+            "party_name": "भाजपा",
+            "const_name": "डबरा",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "UMANG_SINGHAR.jpg",
+            "cand_name": "उदय प्रताप सिंह",
+            "cand_name_english": "UDAY PRATAP SINGH",
+            "party_name": "भाजपा",
+            "const_name": "गाडरवारा",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "Kamalnath.jpg",
+            "cand_name": "कमल नाथ",
+            "cand_name_english": "KAMAL NATH",
+            "party_name": "कांग्रेस",
+            "const_name": "छिंदवाड़ा",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "Kamal_Patel.jpg",
+            "cand_name": "कमल पटेल",
+            "cand_name_english": "KAMAL PATEL",
+            "party_name": "भाजपा",
+            "const_name": "हरदा",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "Kunvar_Vijay_Shaj.jpg",
+            "cand_name": "कुंवर विजय शाह",
+            "cand_name_english": "KUNWAR VIJAY SHAH",
+            "party_name": "भाजपा",
+            "const_name": "हरसूद",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "KRISHNA_GAUR.jpg",
+            "cand_name": "कृष्ण गौर",
+            "cand_name_english": "KRISHNA GAUR",
+            "party_name": "भाजपा",
+            "const_name": "गोविंदपुरा",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "KAILASH_VIJAYVARGIYA.jpg",
+            "cand_name": "कैलाश विजयवर्गीय",
+            "cand_name_english": "KAILASH VIJAYVARGIYA",
+            "party_name": "भाजपा",
+            "const_name": "इंदौर -1",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "Ganesh_Singh.jpg",
+            "cand_name": "गणेश सिंह",
+            "cand_name_english": "GANESH SINGH",
+            "party_name": "भाजपा",
+            "const_name": "सतना",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "GIRISH_GAUTAM.jpg",
+            "cand_name": "गिरीश गौतम",
+            "cand_name_english": "GIRISH GAUTAM",
+            "party_name": "भाजपा",
+            "const_name": "देओतलाब",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "Gopal_Bhargava.jpg",
+            "cand_name": "गोपाल भार्गव",
+            "cand_name_english": "GOPAL BHARGAVA",
+            "party_name": "भाजपा",
+            "const_name": "रेहली",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "GOVIND_SINGH_RAJPUT.jpg",
+            "cand_name": "गोविंद सिंह राजपूत",
+            "cand_name_english": "GOVIND SINGH RAJPUT",
+            "party_name": "भाजपा",
+            "const_name": "सुरखी",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "GAURISHANKAR_BISEN_CHATURBHUG.jpg",
+            "cand_name": "गौरीशंकर बिसेन",
+            "cand_name_english": "GAURISHANKAR BISEN CHATURBHUG",
+            "party_name": "भाजपा",
+            "const_name": "बालाघाट",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "JAYANT_MALAIYA.jpg",
+            "cand_name": "जयंत मलैया",
+            "cand_name_english": "JAYANT MALAIYA",
+            "party_name": "भाजपा",
+            "const_name": "दमोह",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "JAIVARDHAN_SINGH.jpg",
+            "cand_name": "जयवर्धन सिंह",
+            "cand_name_english": "JAIVARDHAN SINGH",
+            "party_name": "कांग्रेस",
+            "const_name": "राघोगढ़",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "Dr_NAROTTAM_MISHRA.jpg",
+            "cand_name": "डॉ नरोत्तम मिश्रा",
+            "cand_name_english": "DR. NAROTTAM MISHRA",
+            "party_name": "भाजपा",
+            "const_name": "दतिया",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "Govind_Singh_Congress.jpg",
+            "cand_name": "डॉ। गोविंद सिंह",
+            "cand_name_english": "DR. GOVIND SINGH",
+            "party_name": "कांग्रेस",
+            "const_name": "लहार",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "DR_PRABHURAM_CHOUDHARY.jpg",
+            "cand_name": "डॉ। प्रभुराम चौधरी",
+            "cand_name_english": "DR. PRABHURAM CHOUDHARY",
+            "party_name": "भाजपा",
+            "const_name": "सांची",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "Vikrant_Bhuria.jpg",
+            "cand_name": "डॉ। विक्रांत भुरिया",
+            "cand_name_english": "DR. VIKRANT BHURIA",
+            "party_name": "कांग्रेस",
+            "const_name": "झाबुआ",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "DR_SITA_SARAN_SHARMA.jpg",
+            "cand_name": "डॉ। सीता सरन शर्मा",
+            "cand_name_english": "DR. SITA SARAN SHARMA",
+            "party_name": "भाजपा",
+            "const_name": "होशंगाबाद",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "TARUN_BHANOT.jpg",
+            "cand_name": "तरुण भानोत",
+            "cand_name_english": "TARUN BHANOT",
+            "party_name": "कांग्रेस",
+            "const_name": "जबलपुर पश्चिम",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "DEEPAK_KELASH_JOSHI.jpg",
+            "cand_name": "दीपक कैलाश जोशी",
+            "cand_name_english": "DEEPAK KELASH JOSHI",
+            "party_name": "कांग्रेस",
+            "const_name": "खातेगांव",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "DHRUV_NARAYAN_SINGH.jpg",
+            "cand_name": "ध्रुव नारायण सिंह",
+            "cand_name_english": "DHRUV NARAYAN SINGH",
+            "party_name": "भाजपा",
+            "const_name": "भोपाल मध्य",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "NARENDRA_SINGH_TOMAR_Dimni.jpg",
+            "cand_name": "नरेंद्र सिंह तोमर",
+            "cand_name_english": "NARENDRA SINGH TOMAR",
+            "party_name": "भाजपा",
+            "const_name": "दिमनी",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "NARAYAN_TRIPATHI.jpg",
+            "cand_name": "नारायण त्रिपाठी",
+            "cand_name_english": "NARAYAN TRIPATHI",
+            "party_name": "वीजेपी",
+            "const_name": "मैहर",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "NILANSHU_CHATURVEDI.JPG",
+            "cand_name": "नीलांशू",
+            "cand_name_english": "NEELANSHU",
+            "party_name": "कांग्रेस",
+            "const_name": "चित्रकूट",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "Pradyum_Singh_Tomar_Gwalior.jpg",
+            "cand_name": "प्रद्युम्न सिंह तोमर",
+            "cand_name_english": "PRADHUMAN SINGH TOMAR",
+            "party_name": "भाजपा",
+            "const_name": "ग्वालियर",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "PRAHLAD_SINGH_PATEL.jpg",
+            "cand_name": "प्रहलाद सिंह पटेल",
+            "cand_name_english": "PRAHLAD SINGH PATEL",
+            "party_name": "भाजपा",
+            "const_name": "नरसिंगपुर",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "FAGGAN_SINGH_KULASTE.jpg",
+            "cand_name": "फग्गन सिंह कुलस्ते",
+            "cand_name_english": "FAGGAN SINGH KULASTE",
+            "party_name": "भाजपा",
+            "const_name": "निवास",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "PHOOL_SINGH_BARAIYA.jpg",
+            "cand_name": "फुलसिंह बरैया",
+            "cand_name_english": "PHOOL SINGH BARAIYA",
+            "party_name": "कांग्रेस",
+            "const_name": "भांडेर",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "Ramsiya_Bharti.jpg",
+            "cand_name": "बहिन रामसिया भारती",
+            "cand_name_english": "BAHIN RAMSIYA BHARTI",
+            "party_name": "कांग्रेस",
+            "const_name": "मल्हारा",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "BISAHU LAL_SINGH.jpg",
+            "cand_name": "बिसाहु लाल सिंह",
+            "cand_name_english": "BISAHU LAL SINGH",
+            "party_name": "भाजपा",
+            "const_name": "अनूपपुर",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "BHOOPENDRA_SINGH.jpg",
+            "cand_name": "भूपेंद्र सिंह",
+            "cand_name_english": "BHOOPENDRA SINGH",
+            "party_name": "भाजपा",
+            "const_name": "खुराई",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "MAHENDRA_SINGH_SISODIA.jpg",
+            "cand_name": "महेन्द्र सिंह सिसौदिया",
+            "cand_name_english": "MAHENDRA SINGH SISODIA (SANJU B",
+            "party_name": "भाजपा",
+            "const_name": "बमोरी",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "maya_singh_69155.jpg",
+            "cand_name": "माया सिंह (मामी जी)",
+            "cand_name_english": "MAYA SINGH (MAMI JI)",
+            "party_name": "भाजपा",
+            "const_name": "ग्वालियर ईस्ट",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "MONIKA_MANMOHAN_SHAH_BATTI.jpg",
+            "cand_name": "मोनिका मनमोहन शाह बट्टी",
+            "cand_name_english": "MONIKA MANMOHAN SHAH BATTI",
+            "party_name": "भाजपा",
+            "const_name": "अमरवाड़ा",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "RAKESH_SINGH.jpg",
+            "cand_name": "राकेश सिंह",
+            "cand_name_english": "RAKESH SINGH",
+            "party_name": "भाजपा",
+            "const_name": "जबलपुर पश्चिम",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "RAJENDRA_SHUKLA.jpg",
+            "cand_name": "राजेंद्र शुक्ला",
+            "cand_name_english": "RAJENDRA SHUKLA",
+            "party_name": "भाजपा",
+            "const_name": "रीवा",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "RANI_AGRAWAL.jpg",
+            "cand_name": "रानी अग्रवाल",
+            "cand_name_english": "RANI AGRAWAL",
+            "party_name": "आप",
+            "const_name": "सिंगरौली",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "RITI_PATHAK.jpg",
+            "cand_name": "रीति पाठक",
+            "cand_name_english": "RITI PATHAK",
+            "party_name": "भाजपा",
+            "const_name": "सीधी",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "LAKSHMAN_SINGH.jpg",
+            "cand_name": "लक्ष्मण सिंह",
+            "cand_name_english": "LAKSHMAN SINGH",
+            "party_name": "कांग्रेस",
+            "const_name": "चाचौड़ा",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "VISHWAS_SARANG.jpg",
+            "cand_name": "विश्वास सांरंग",
+            "cand_name_english": "VISHVAS SARANG",
+            "party_name": "भाजपा",
+            "const_name": "नरेला",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "Shivraj_Singh_Chauhan_BJP.jpg",
+            "cand_name": "शिवराज सिंह चौहान",
+            "cand_name_english": "SHIVRAJ SINGH CHOUHAN",
+            "party_name": "भाजपा",
+            "const_name": "बुधनी",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "SANJAY_SATYENDRA_PATHAK.jpg",
+            "cand_name": "संजय सत्येंद्र पाठक",
+            "cand_name_english": "SANJAY SATYENDRA PATHAK",
+            "party_name": "भाजपा",
+            "const_name": "विजयराघवगढ़",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "SACHIN_SUBHASHCHANDRA_YADAV.jpg",
+            "cand_name": "सचिन सुभाष चंद्र यादव",
+            "cand_name_english": "SACHIN SUBHASHCHANDRA YADAV",
+            "party_name": "कांग्रेस",
+            "const_name": "कसरावद",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "SAJJAN_SINGH_VERMA.jpg",
+            "cand_name": "सज्जन सिंह वर्मा",
+            "cand_name_english": "SAJJAN SINGH VERMA",
+            "party_name": "कांग्रेस",
+            "const_name": "सोनकच",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "SURENDRA_PATWA.jpg",
+            "cand_name": "सुरेंद्र पटवा",
+            "cand_name_english": "SURENDRA PATWA",
+            "party_name": "भाजपा",
+            "const_name": "भोजपुर",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "HEMANT_KATARE.jpg",
+            "cand_name": "हेमंत सत्यदेव कटारे",
+            "cand_name_english": "HEMANT SATYADEV KATARE",
+            "party_name": "कांग्रेस",
+            "const_name": "अटेर",
+            "status": "जीत"
+        }
+    ]
+}

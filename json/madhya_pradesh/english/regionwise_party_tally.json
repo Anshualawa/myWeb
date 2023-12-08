@@ -1,0 +1,124 @@
+{
+    "results": [
+        {
+            "region_name": "BHOPAL",
+            "region_name_english": "BHOPAL",
+            "total_seats": 25,
+            "count_seats": "25",
+            "bjp_won": "22",
+            "bjp_lead": "0",
+            "inc_won": "3",
+            "inc_lead": "0",
+            "oth_won": "0",
+            "oth_lead": "0"
+        },
+        {
+            "region_name": "CHAMBAL",
+            "region_name_english": "CHAMBAL",
+            "total_seats": 13,
+            "count_seats": "13",
+            "bjp_won": "6",
+            "bjp_lead": "0",
+            "inc_won": "7",
+            "inc_lead": "0",
+            "oth_won": "0",
+            "oth_lead": "0"
+        },
+        {
+            "region_name": "GWALIOR",
+            "region_name_english": "GWALIOR",
+            "total_seats": 21,
+            "count_seats": "21",
+            "bjp_won": "12",
+            "bjp_lead": "0",
+            "inc_won": "9",
+            "inc_lead": "0",
+            "oth_won": "0",
+            "oth_lead": "0"
+        },
+        {
+            "region_name": "INDORE",
+            "region_name_english": "INDORE",
+            "total_seats": 37,
+            "count_seats": "37",
+            "bjp_won": "23",
+            "bjp_lead": "0",
+            "inc_won": "14",
+            "inc_lead": "0",
+            "oth_won": "0",
+            "oth_lead": "0"
+        },
+        {
+            "region_name": "JABALPUR",
+            "region_name_english": "JABALPUR",
+            "total_seats": 36,
+            "count_seats": "36",
+            "bjp_won": "20",
+            "bjp_lead": "0",
+            "inc_won": "16",
+            "inc_lead": "0",
+            "oth_won": "0",
+            "oth_lead": "0"
+        },
+        {
+            "region_name": "NARMADAPURAM",
+            "region_name_english": "NARMADAPURAM",
+            "total_seats": 11,
+            "count_seats": "11",
+            "bjp_won": "9",
+            "bjp_lead": "0",
+            "inc_won": "2",
+            "inc_lead": "0",
+            "oth_won": "0",
+            "oth_lead": "0"
+        },
+        {
+            "region_name": "REWA",
+            "region_name_english": "REWA",
+            "total_seats": 22,
+            "count_seats": "22",
+            "bjp_won": "18",
+            "bjp_lead": "0",
+            "inc_won": "4",
+            "inc_lead": "0",
+            "oth_won": "0",
+            "oth_lead": "0"
+        },
+        {
+            "region_name": "SAGAR",
+            "region_name_english": "SAGAR",
+            "total_seats": 26,
+            "count_seats": "26",
+            "bjp_won": "21",
+            "bjp_lead": "0",
+            "inc_won": "5",
+            "inc_lead": "0",
+            "oth_won": "0",
+            "oth_lead": "0"
+        },
+        {
+            "region_name": "SHAHDOL",
+            "region_name_english": "SHAHDOL",
+            "total_seats": 10,
+            "count_seats": "10",
+            "bjp_won": "8",
+            "bjp_lead": "0",
+            "inc_won": "2",
+            "inc_lead": "0",
+            "oth_won": "0",
+            "oth_lead": "0"
+        },
+        {
+            "region_name": "UJJAIN",
+            "region_name_english": "UJJAIN",
+            "total_seats": 29,
+            "count_seats": "29",
+            "bjp_won": "24",
+            "bjp_lead": "0",
+            "inc_won": "4",
+            "inc_lead": "0",
+            "oth_won": "1",
+            "oth_lead": "0"
+        }
+    ]
+}

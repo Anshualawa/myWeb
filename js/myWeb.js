@@ -15,16 +15,51 @@ function getData() {
         responce.empDetails.forEach(element => {
             records += `
             <tr>
-            <td>`+element.emp_id+`</td>
-            <td>`+element.first_name+`</td>
-            <td>`+element.last_name+`</td>
-            <td>`+element.age+`</td>
+            <td>`+ element.emp_id + `</td>
+            <td>`+ element.first_name + `</td>
+            <td>`+ element.last_name + `</td>
+            <td>`+ element.age + `</td>
             </tr>`;
         });
-        $('table tbody').html(records);
+        $('.section-1 table tbody').html(records);
     });
 
 }
+function getVIP() {
+    getJSON('/json/madhya_pradesh/english/vipcandidates_wonlead.json', function (responce) {
+        let records;
+        responce.results.forEach(element => {
+            records += `<tr>
+                        <td>`+ element.cand_name + `</td>
+                        <td>`+ element.party_name + `</td>
+                        <td>`+ element.const_name + `</td>
+                        <td>`+ element.status + `</td>
+                        </tr>`;
+        });
+        $('.section-3 table #english-records').html(records);
+    })
+    getJSON('/json/madhya_pradesh/hindi/vipcandidates_wonlead.json', function (responce) {
+        let records;
+        responce.results.forEach(element => {
+            records += `<tr>
+                        <td>`+ element.cand_name + `</td>
+                        <td>`+ element.party_name + `</td>
+                        <td>`+ element.const_name + `</td>
+                        <td>`+ element.status + `</td>
+                        </tr>`;
+        });
+        $('.section-3 table #hindi-records').html(records);
+    })
+}
+
+
+
+
+
+
+
+
+
 
 var app = angular.module('myApp', ['ui.router']);
 
@@ -87,4 +122,5 @@ function EmployeeDetails(url) {
 $(document).ready(function () {
     EmployeeDetails(url);
     getData();
+    getVIP()
 });

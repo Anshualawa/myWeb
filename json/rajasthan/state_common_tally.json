@@ -1,0 +1,35 @@
+{
+    "totalresults": [
+        {
+            "state_id": 29,
+            "state_name": "RAJASTHAN",
+            "party_name": "BJP",
+            "lead": "0",
+            "won": "115",
+            "total": 115
+        },
+        {
+            "state_id": 29,
+            "state_name": "RAJASTHAN",
+            "party_name": "INC",
+            "lead": "0",
+            "won": "70",
+            "total": 70
+        },
+        {
+            "state_id": 29,
+            "state_name": "RAJASTHAN",
+            "party_name": "OTHERS",
+            "lead": "0",
+            "won": "14",
+            "total": 14
+        },
+        {
+            "state_id": 29,
+            "total_seats": 199,
+            "won_seats": 199,
+            "lead_seats": 0,
+            "total_count": 199
+        }
+    ]
+}

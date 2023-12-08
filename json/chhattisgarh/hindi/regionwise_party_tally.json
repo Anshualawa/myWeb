@@ -1,0 +1,64 @@
+{
+    "results": [
+        {
+            "region_name": "दुर्ग",
+            "region_name_english": "DURG",
+            "total_seats": 17,
+            "count_seats": "17",
+            "bjp_won": "10",
+            "bjp_lead": "0",
+            "inc_won": "7",
+            "inc_lead": "0",
+            "oth_won": "0",
+            "oth_lead": "0"
+        },
+        {
+            "region_name": "बस्तर",
+            "region_name_english": "BASTAR",
+            "total_seats": 12,
+            "count_seats": "12",
+            "bjp_won": "8",
+            "bjp_lead": "0",
+            "inc_won": "4",
+            "inc_lead": "0",
+            "oth_won": "0",
+            "oth_lead": "0"
+        },
+        {
+            "region_name": "बिलासपुर",
+            "region_name_english": "BILASPUR",
+            "total_seats": 25,
+            "count_seats": "25",
+            "bjp_won": "10",
+            "bjp_lead": "0",
+            "inc_won": "14",
+            "inc_lead": "0",
+            "oth_won": "1",
+            "oth_lead": "0"
+        },
+        {
+            "region_name": "रायपुर",
+            "region_name_english": "RAIPUR",
+            "total_seats": 22,
+            "count_seats": "22",
+            "bjp_won": "12",
+            "bjp_lead": "0",
+            "inc_won": "10",
+            "inc_lead": "0",
+            "oth_won": "0",
+            "oth_lead": "0"
+        },
+        {
+            "region_name": "सरगुजा",
+            "region_name_english": "SURGUJA",
+            "total_seats": 14,
+            "count_seats": "14",
+            "bjp_won": "14",
+            "bjp_lead": "0",
+            "inc_won": "0",
+            "inc_lead": "0",
+            "oth_won": "0",
+            "oth_lead": "0"
+        }
+    ]
+}

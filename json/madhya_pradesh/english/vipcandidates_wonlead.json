@@ -1,0 +1,412 @@
+{
+    "results": [
+        {
+            "cand_pic": "AJAY_ARJUN_SINGH.jpg",
+            "cand_name": "AJAY ARJUN SINGH",
+            "cand_name_english": "AJAY ARJUN SINGH",
+            "party_name": "INC",
+            "const_name": "CHURHAT",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "ALOK_SHARMA.jpg",
+            "cand_name": "ALOK SHARMA",
+            "cand_name_english": "ALOK SHARMA",
+            "party_name": "BJP",
+            "const_name": "BHOPAL UTTAR",
+            "status": "LOST"
+        },
+        {
+            "cand_pic": "ARIF_MASOOD.jpg",
+            "cand_name": "ARIF MASOOD",
+            "cand_name_english": "ARIF MASOOD",
+            "party_name": "INC",
+            "const_name": "BHOPAL MADHYA",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "Ramsiya_Bharti.jpg",
+            "cand_name": "BAHIN RAMSIYA BHARTI",
+            "cand_name_english": "BAHIN RAMSIYA BHARTI",
+            "party_name": "INC",
+            "const_name": "MALHARA",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "BHOOPENDRA_SINGH.jpg",
+            "cand_name": "BHOOPENDRA SINGH",
+            "cand_name_english": "BHOOPENDRA SINGH",
+            "party_name": "BJP",
+            "const_name": "KHURAI",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "BISAHU LAL_SINGH.jpg",
+            "cand_name": "BISAHU LAL SINGH",
+            "cand_name_english": "BISAHU LAL SINGH",
+            "party_name": "BJP",
+            "const_name": "ANUPPUR",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "DEEPAK_KELASH_JOSHI.jpg",
+            "cand_name": "DEEPAK KELASH JOSHI",
+            "cand_name_english": "DEEPAK KELASH JOSHI",
+            "party_name": "INC",
+            "const_name": "KHATEGAON",
+            "status": "LOST"
+        },
+        {
+            "cand_pic": "DHRUV_NARAYAN_SINGH.jpg",
+            "cand_name": "DHRUV NARAYAN SINGH",
+            "cand_name_english": "DHRUV NARAYAN SINGH",
+            "party_name": "BJP",
+            "const_name": "BHOPAL MADHYA",
+            "status": "LOST"
+        },
+        {
+            "cand_pic": "Govind_Singh_Congress.jpg",
+            "cand_name": "DR. GOVIND SINGH",
+            "cand_name_english": "DR. GOVIND SINGH",
+            "party_name": "INC",
+            "const_name": "LAHAR",
+            "status": "LOST"
+        },
+        {
+            "cand_pic": "Dr_NAROTTAM_MISHRA.jpg",
+            "cand_name": "DR. NAROTTAM MISHRA",
+            "cand_name_english": "DR. NAROTTAM MISHRA",
+            "party_name": "BJP",
+            "const_name": "DATIA",
+            "status": "LOST"
+        },
+        {
+            "cand_pic": "DR_PRABHURAM_CHOUDHARY.jpg",
+            "cand_name": "DR. PRABHURAM CHOUDHARY",
+            "cand_name_english": "DR. PRABHURAM CHOUDHARY",
+            "party_name": "BJP",
+            "const_name": "SANCHI",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "DR_SITA_SARAN_SHARMA.jpg",
+            "cand_name": "DR. SITA SARAN SHARMA",
+            "cand_name_english": "DR. SITA SARAN SHARMA",
+            "party_name": "BJP",
+            "const_name": "HOSHANGABAD",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "Vikrant_Bhuria.jpg",
+            "cand_name": "DR. VIKRANT BHURIA",
+            "cand_name_english": "DR. VIKRANT BHURIA",
+            "party_name": "INC",
+            "const_name": "JHABUA",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "FAGGAN_SINGH_KULASTE.jpg",
+            "cand_name": "FAGGAN SINGH KULASTE",
+            "cand_name_english": "FAGGAN SINGH KULASTE",
+            "party_name": "BJP",
+            "const_name": "NIWAS",
+            "status": "LOST"
+        },
+        {
+            "cand_pic": "Ganesh_Singh.jpg",
+            "cand_name": "GANESH SINGH",
+            "cand_name_english": "GANESH SINGH",
+            "party_name": "BJP",
+            "const_name": "SATNA",
+            "status": "LOST"
+        },
+        {
+            "cand_pic": "GAURISHANKAR_BISEN_CHATURBHUG.jpg",
+            "cand_name": "GAURISHANKAR BISEN CHATURBHUG",
+            "cand_name_english": "GAURISHANKAR BISEN CHATURBHUG",
+            "party_name": "BJP",
+            "const_name": "BALAGHAT",
+            "status": "LOST"
+        },
+        {
+            "cand_pic": "GIRISH_GAUTAM.jpg",
+            "cand_name": "GIRISH GAUTAM",
+            "cand_name_english": "GIRISH GAUTAM",
+            "party_name": "BJP",
+            "const_name": "DEOTALAB",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "Gopal_Bhargava.jpg",
+            "cand_name": "GOPAL BHARGAVA",
+            "cand_name_english": "GOPAL BHARGAVA",
+            "party_name": "BJP",
+            "const_name": "REHLI",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "GOVIND_SINGH_RAJPUT.jpg",
+            "cand_name": "GOVIND SINGH RAJPUT",
+            "cand_name_english": "GOVIND SINGH RAJPUT",
+            "party_name": "BJP",
+            "const_name": "SURKHI",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "HEMANT_KATARE.jpg",
+            "cand_name": "HEMANT SATYADEV KATARE",
+            "cand_name_english": "HEMANT SATYADEV KATARE",
+            "party_name": "INC",
+            "const_name": "ATER",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "Imarti_Devi.jpg",
+            "cand_name": "IMARTI DEVI",
+            "cand_name_english": "IMARTI DEVI",
+            "party_name": "BJP",
+            "const_name": "DABRA",
+            "status": "LOST"
+        },
+        {
+            "cand_pic": "Inder_Singh_Parmar.jpg",
+            "cand_name": "INDER SINGH PARMAR",
+            "cand_name_english": "INDER SINGH PARMAR",
+            "party_name": "BJP",
+            "const_name": "SHUJALPUR",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "JAIVARDHAN_SINGH.jpg",
+            "cand_name": "JAIVARDHAN SINGH",
+            "cand_name_english": "JAIVARDHAN SINGH",
+            "party_name": "INC",
+            "const_name": "RAGHOGARH",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "JAYANT_MALAIYA.jpg",
+            "cand_name": "JAYANT MALAIYA",
+            "cand_name_english": "JAYANT MALAIYA",
+            "party_name": "BJP",
+            "const_name": "DAMOH",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "KAILASH_VIJAYVARGIYA.jpg",
+            "cand_name": "KAILASH VIJAYVARGIYA",
+            "cand_name_english": "KAILASH VIJAYVARGIYA",
+            "party_name": "BJP",
+            "const_name": "INDORE-1",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "Kamalnath.jpg",
+            "cand_name": "KAMAL NATH",
+            "cand_name_english": "KAMAL NATH",
+            "party_name": "INC",
+            "const_name": "CHHINDWARA",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "Kamal_Patel.jpg",
+            "cand_name": "KAMAL PATEL",
+            "cand_name_english": "KAMAL PATEL",
+            "party_name": "BJP",
+            "const_name": "HARDA",
+            "status": "LOST"
+        },
+        {
+            "cand_pic": "KRISHNA_GAUR.jpg",
+            "cand_name": "KRISHNA GAUR",
+            "cand_name_english": "KRISHNA GAUR",
+            "party_name": "BJP",
+            "const_name": "GOVINDPURA",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "Kunvar_Vijay_Shaj.jpg",
+            "cand_name": "KUNWAR VIJAY SHAH",
+            "cand_name_english": "KUNWAR VIJAY SHAH",
+            "party_name": "BJP",
+            "const_name": "HARSUD",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "LAKSHMAN_SINGH.jpg",
+            "cand_name": "LAKSHMAN SINGH",
+            "cand_name_english": "LAKSHMAN SINGH",
+            "party_name": "INC",
+            "const_name": "CHACHOURA",
+            "status": "LOST"
+        },
+        {
+            "cand_pic": "MAHENDRA_SINGH_SISODIA.jpg",
+            "cand_name": "MAHENDRA SINGH SISODIA (SANJU B",
+            "cand_name_english": "MAHENDRA SINGH SISODIA (SANJU B",
+            "party_name": "BJP",
+            "const_name": "BAMORI",
+            "status": "LOST"
+        },
+        {
+            "cand_pic": "maya_singh_69155.jpg",
+            "cand_name": "MAYA SINGH (MAMI JI)",
+            "cand_name_english": "MAYA SINGH (MAMI JI)",
+            "party_name": "BJP",
+            "const_name": "GWALIOR EAST",
+            "status": "LOST"
+        },
+        {
+            "cand_pic": "MONIKA_MANMOHAN_SHAH_BATTI.jpg",
+            "cand_name": "MONIKA MANMOHAN SHAH BATTI",
+            "cand_name_english": "MONIKA MANMOHAN SHAH BATTI",
+            "party_name": "BJP",
+            "const_name": "AMARWARA",
+            "status": "LOST"
+        },
+        {
+            "cand_pic": "NARAYAN_TRIPATHI.jpg",
+            "cand_name": "NARAYAN TRIPATHI",
+            "cand_name_english": "NARAYAN TRIPATHI",
+            "party_name": "VJP",
+            "const_name": "MAIHAR",
+            "status": "LOST"
+        },
+        {
+            "cand_pic": "NARENDRA_SINGH_TOMAR_Dimni.jpg",
+            "cand_name": "NARENDRA SINGH TOMAR",
+            "cand_name_english": "NARENDRA SINGH TOMAR",
+            "party_name": "BJP",
+            "const_name": "DIMANI",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "NILANSHU_CHATURVEDI.JPG",
+            "cand_name": "NEELANSHU",
+            "cand_name_english": "NEELANSHU",
+            "party_name": "INC",
+            "const_name": "CHITRAKOOT",
+            "status": "LOST"
+        },
+        {
+            "cand_pic": "PHOOL_SINGH_BARAIYA.jpg",
+            "cand_name": "PHOOL SINGH BARAIYA",
+            "cand_name_english": "PHOOL SINGH BARAIYA",
+            "party_name": "INC",
+            "const_name": "BHANDER",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "Pradyum_Singh_Tomar_Gwalior.jpg",
+            "cand_name": "PRADHUMAN SINGH TOMAR",
+            "cand_name_english": "PRADHUMAN SINGH TOMAR",
+            "party_name": "BJP",
+            "const_name": "GWALIOR",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "PRAHLAD_SINGH_PATEL.jpg",
+            "cand_name": "PRAHLAD SINGH PATEL",
+            "cand_name_english": "PRAHLAD SINGH PATEL",
+            "party_name": "BJP",
+            "const_name": "NARSINGPUR",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "RAJENDRA_SHUKLA.jpg",
+            "cand_name": "RAJENDRA SHUKLA",
+            "cand_name_english": "RAJENDRA SHUKLA",
+            "party_name": "BJP",
+            "const_name": "REWA",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "RAKESH_SINGH.jpg",
+            "cand_name": "RAKESH SINGH",
+            "cand_name_english": "RAKESH SINGH",
+            "party_name": "BJP",
+            "const_name": "JABALPUR PASCHIM",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "RANI_AGRAWAL.jpg",
+            "cand_name": "RANI AGRAWAL",
+            "cand_name_english": "RANI AGRAWAL",
+            "party_name": "AAP",
+            "const_name": "SINGRAULI",
+            "status": "LOST"
+        },
+        {
+            "cand_pic": "RITI_PATHAK.jpg",
+            "cand_name": "RITI PATHAK",
+            "cand_name_english": "RITI PATHAK",
+            "party_name": "BJP",
+            "const_name": "SIDHI",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "SACHIN_SUBHASHCHANDRA_YADAV.jpg",
+            "cand_name": "SACHIN SUBHASHCHANDRA YADAV",
+            "cand_name_english": "SACHIN SUBHASHCHANDRA YADAV",
+            "party_name": "INC",
+            "const_name": "KASRAWAD",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "SAJJAN_SINGH_VERMA.jpg",
+            "cand_name": "SAJJAN SINGH VERMA",
+            "cand_name_english": "SAJJAN SINGH VERMA",
+            "party_name": "INC",
+            "const_name": "SONKATCH",
+            "status": "LOST"
+        },
+        {
+            "cand_pic": "SANJAY_SATYENDRA_PATHAK.jpg",
+            "cand_name": "SANJAY SATYENDRA PATHAK",
+            "cand_name_english": "SANJAY SATYENDRA PATHAK",
+            "party_name": "BJP",
+            "const_name": "VIJAYRAGHAVGARH",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "Shivraj_Singh_Chauhan_BJP.jpg",
+            "cand_name": "SHIVRAJ SINGH CHOUHAN",
+            "cand_name_english": "SHIVRAJ SINGH CHOUHAN",
+            "party_name": "BJP",
+            "const_name": "BUDHNI",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "SURENDRA_PATWA.jpg",
+            "cand_name": "SURENDRA PATWA",
+            "cand_name_english": "SURENDRA PATWA",
+            "party_name": "BJP",
+            "const_name": "BHOJPUR",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "TARUN_BHANOT.jpg",
+            "cand_name": "TARUN BHANOT",
+            "cand_name_english": "TARUN BHANOT",
+            "party_name": "INC",
+            "const_name": "JABALPUR PASCHIM",
+            "status": "LOST"
+        },
+        {
+            "cand_pic": "UMANG_SINGHAR.jpg",
+            "cand_name": "UDAY PRATAP SINGH",
+            "cand_name_english": "UDAY PRATAP SINGH",
+            "party_name": "BJP",
+            "const_name": "GADARWARA",
+            "status": "WON"
+        },
+        {
+            "cand_pic": "VISHWAS_SARANG.jpg",
+            "cand_name": "VISHVAS SARANG",
+            "cand_name_english": "VISHVAS SARANG",
+            "party_name": "BJP",
+            "const_name": "NARELA",
+            "status": "WON"
+        }
+    ]
+}

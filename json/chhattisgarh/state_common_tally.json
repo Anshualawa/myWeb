@@ -1,0 +1,35 @@
+{
+    "totalresults": [
+        {
+            "state_id": 7,
+            "state_name": "CHHATTISGARH",
+            "party_name": "BJP",
+            "lead": "0",
+            "won": "54",
+            "total": 54
+        },
+        {
+            "state_id": 7,
+            "state_name": "CHHATTISGARH",
+            "party_name": "INC",
+            "lead": "0",
+            "won": "35",
+            "total": 35
+        },
+        {
+            "state_id": 7,
+            "state_name": "CHHATTISGARH",
+            "party_name": "OTHERS",
+            "lead": "0",
+            "won": "1",
+            "total": 1
+        },
+        {
+            "state_id": 7,
+            "total_seats": 90,
+            "won_seats": 90,
+            "lead_seats": 0,
+            "total_count": 90
+        }
+    ]
+}

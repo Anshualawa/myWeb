@@ -1,0 +1,716 @@
+{
+    "results": [
+        {
+            "cand_pic": "KAWARDHA_MOHHAMAD_AKBAR_INC.jpg",
+            "cand_name": "अकबर भाई पुत्र मोहम्मद रशीद",
+            "cand_name_english": "AKBAR BHAI S/O MOHAMMAD RASHID",
+            "party_name": "कांग्रेस",
+            "const_name": "कवर्धा",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "KURUD_DR_AJAY_CHANDRAKAR_BJP.jpg",
+            "cand_name": "अजय चंद्राकर",
+            "cand_name_english": "AJAY CHANDRAKAR",
+            "party_name": "भाजपा",
+            "const_name": "कुरुद",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "KOTA_ATAL_SHRIVASTAVA_INC.jpg",
+            "cand_name": "अटल श्रीवास्तव",
+            "cand_name_english": "ATAL SHRIVASTAVA",
+            "party_name": "कांग्रेस",
+            "const_name": "कोटा",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "DONDI_LOHARA_ANILA BHENDIA_INC.jpg",
+            "cand_name": "अनिला भेंडिया",
+            "cand_name_english": "ANILA BHENDIA",
+            "party_name": "कांग्रेस",
+            "const_name": "डौंडीलोहारा",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "DHARSIWA_ANUJ_SHARMA_BJP.jpg",
+            "cand_name": "अनुज शर्मा",
+            "cand_name_english": "ANUJ SHARMA",
+            "party_name": "भाजपा",
+            "const_name": "धरसीवा",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "BILASPUR_AMAR_AGRAWAL_BJP.jpg",
+            "cand_name": "अमर अग्रवाल",
+            "cand_name_english": "AMAR AGRAWAL",
+            "party_name": "भाजपा",
+            "const_name": "बिलासपुर",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "SITAPUR_AMARJEET_BHAGAT_INC.jpg",
+            "cand_name": "अमरजीत भगत",
+            "cand_name_english": "AMARJEET BHAGAT",
+            "party_name": "कांग्रेस",
+            "const_name": "सीतापुर",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "PATAN_AMIT_AJIT_JOGI_JCCJ.JPG",
+            "cand_name": "अमित अजित जोगी",
+            "cand_name_english": "AMIT AJIT JOGI",
+            "party_name": "जेसीसीजे",
+            "const_name": "पाटन",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "RAJIM_AMITESH_SHUKLA_INC.jpg",
+            "cand_name": "अमितेश शुक्ला",
+            "cand_name_english": "AMITESH SHUKLA",
+            "party_name": "कांग्रेस",
+            "const_name": "राजिम",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "BAIKHUNTPUR_AMBICA_SINGHDEO_INC.JPG",
+            "cand_name": "अम्बिका सिंहदेव",
+            "cand_name_english": "AMBICA SINGHDEO",
+            "party_name": "कांग्रेस",
+            "const_name": "बैकुंठपुर",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "DURG_CITY_ARUN_VOHRA_INC.jpg",
+            "cand_name": "अरुण वोरा",
+            "cand_name_english": "ARUN VORA",
+            "party_name": "कांग्रेस",
+            "const_name": "दुर्ग सिटी",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "LORMI_ARUN_SAO_BJP.jpg",
+            "cand_name": "अरुण साव",
+            "cand_name_english": "ARUN SAO",
+            "party_name": "भाजपा",
+            "const_name": "लोरमी",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "SAJA_ISHWAR_SAHU_BJP.JPG",
+            "cand_name": "ईश्वर साहू",
+            "cand_name_english": "ISHWAR SAHU",
+            "party_name": "भाजपा",
+            "const_name": "साजा",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "PALI_TANAKHAR_UIKE_RAMDYAL_BJP.jpg",
+            "cand_name": "उईके रामदयाल",
+            "cand_name_english": "UIKE RAMDYAL",
+            "party_name": "भाजपा",
+            "const_name": "पाली तानाखार",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "KHARASIA_UMESH_PATEL_INC.jpg",
+            "cand_name": "उमेश पटेल",
+            "cand_name_english": "UMESH PATEL",
+            "party_name": "कांग्रेस",
+            "const_name": "खरसिया",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "AKALTHARA_RICHA_AJIT_JOGI_JCCJ.jpg",
+            "cand_name": "ऋचा अजीत जोगी",
+            "cand_name_english": "RICHA AJIT JOGI",
+            "party_name": "जेसीसीजे",
+            "const_name": "अकलतरा",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "RAIGHARH_OP_CHOUDHARY_ BJP.jpg",
+            "cand_name": "ओ पी चौधरी",
+            "cand_name_english": "O P CHOUDHARY)",
+            "party_name": "भाजपा",
+            "const_name": "रायगढ़",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "KO0NTA_KAWASI_LAKHMA_INC.jpg",
+            "cand_name": "कवासी लखमा",
+            "cand_name_english": "KAWASI LAKHMA",
+            "party_name": "कांग्रेस",
+            "const_name": "कोंटा",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "RAIPUR_CITY_NORTH_KULDEEP_SINGH _JUNEJA_INC.jpg",
+            "cand_name": "कुलदीप सिंह जुनेजा",
+            "cand_name_english": "KULDEEP SINGH JUNEJA",
+            "party_name": "कांग्रेस",
+            "const_name": "रायपुर सिटी नार्थ",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "NARAYANPUR_KEDAR_KASHYAP_BJP.jpg",
+            "cand_name": "केदार कश्यप",
+            "cand_name_english": "KEDAR KASHYAP",
+            "party_name": "भाजपा",
+            "const_name": "नारायणपुर",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "BHANUPRATPPUR_KOMAL_HUPENDI_AAP.jpg",
+            "cand_name": "कोमल हुपेंडी",
+            "cand_name_english": "KOMAL HUPENDI",
+            "party_name": "आप",
+            "const_name": "भानुप्रतापपुर",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "PREMNAGAR_KHEL_ SAI_ SINGH_ INC.JPG",
+            "cand_name": "खेल साय सिंह",
+            "cand_name_english": "KHEL SAI SINGH",
+            "party_name": "कांग्रेस",
+            "const_name": "प्रेमनगर",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "RAJNANDGAWON_DR_RAMAN_SINGH_BJP.jpg",
+            "cand_name": "गिरीश देवांगन",
+            "cand_name_english": "GIRISH DEWANGAN",
+            "party_name": "कांग्रेस",
+            "const_name": "राजनांदगांव",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "AARANG_GURU_KHUSHWANT_SAHEB_BJP.jpg",
+            "cand_name": "गुरु खुशवंत साहेब",
+            "cand_name_english": "GURU KHUSHWANT SAHEB",
+            "party_name": "भाजपा",
+            "const_name": "आरंग",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "NAVAGARH_GURU_RUDRA_KUMAR_INC.jpg",
+            "cand_name": "गुरु रूद्र कुमार",
+            "cand_name_english": "GURU RUDRA KUMAR",
+            "party_name": "कांग्रेस",
+            "const_name": "नवागढ़",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "BHARATPUR_SONHAT_GULAB_KAMRO_INC.JPG",
+            "cand_name": "गुलाब कमरो",
+            "cand_name_english": "GULAB KAMRO",
+            "party_name": "कांग्रेस",
+            "const_name": "भरतपुर सोनहत",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "PATTAHALGAWON_GOMTI_SAI_BJP.jpg",
+            "cand_name": "गोमती साय",
+            "cand_name_english": "GOMATI SAI",
+            "party_name": "भाजपा",
+            "const_name": "पत्थलगांव",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "NARAYANPUR_CHANDAN_KASHYAP_INC.jpg",
+            "cand_name": "चन्दन कश्यप",
+            "cand_name_english": " CHANDAN KASHYAP",
+            "party_name": "कांग्रेस",
+            "const_name": "नारायणपुर",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "SHAKTI_CHARAN_DAS_MAHANT_INC.jpg",
+            "cand_name": "चरण दास महंत",
+            "cand_name_english": "CHARAN DAS MAHANT",
+            "party_name": "कांग्रेस",
+            "const_name": "सक्ती",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "DANTEWADA_CHAITRAM_ATAMI_BJP.jpg",
+            "cand_name": "चैतराम अटामी",
+            "cand_name_english": "CHAITRAM ATAMI",
+            "party_name": "भाजपा",
+            "const_name": "दंतेवाड़ा",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "DANTEWADA_CHHAVINDRA_KARMA_INC.JPG",
+            "cand_name": "छविन्द्र कर्मा",
+            "cand_name_english": "CHHAVINDRA KARMA",
+            "party_name": "कांग्रेस",
+            "const_name": "दंतेवाड़ा",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "DHARSIWA_CHHAYA_VERMA_INC.jpg",
+            "cand_name": "छाया वर्मा",
+            "cand_name_english": "CHHAYA VERMA",
+            "party_name": "कांग्रेस",
+            "const_name": "धरसीवा",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "KORBA_JAISINGH_AGRAWAL_(JAISINGH BHAIYA)_INC.jpg",
+            "cand_name": "जयसिंह अग्रवाल(जयसिंह भैय्या)",
+            "cand_name_english": "JAISINGH AGRAWAL (JAISINGH BHAIYA)",
+            "party_name": "कांग्रेस",
+            "const_name": "कोरबा",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "AMBIKAPUR_TS_SINGHDEO_INC.jpg",
+            "cand_name": "टी एस बाबा",
+            "cand_name_english": "T. S. SINGH DEO",
+            "party_name": "कांग्रेस",
+            "const_name": "अंबिकापुर",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "RAIPUR_CITY_SOUTH_DR_MAHANT_RAMSUNDAR_DAS_INC.jpg",
+            "cand_name": "डॉ महंत रामसुंदर दास",
+            "cand_name_english": "DR. MAHANT RAMSUNDAR DAS",
+            "party_name": "कांग्रेस",
+            "const_name": "रायपुर सिटी साउथ",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "RAMANUJGANJ_DR_AJAY_TIRKEY_INC.jpg",
+            "cand_name": "डॉ. अजय कुमार तिर्की",
+            "cand_name_english": "DR. AJAY KUMAR TIRKEY",
+            "party_name": "कांग्रेस",
+            "const_name": "रामानुजगंज",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "MASTURI_DR_KRISHNA_MURTI_BANDHI_BJP.jpg",
+            "cand_name": "डॉ. कृष्णमूर्ति बंधी",
+            "cand_name_english": "DR. KRISHNA MURTI BANDHI",
+            "party_name": "भाजपा",
+            "const_name": "मस्तूरी",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "LUNDRA_DR_PRITAM_RAM_INC.jpg",
+            "cand_name": "डॉ. प्रीतम राम",
+            "cand_name_english": "DR. PRITAM RAM",
+            "party_name": "कांग्रेस",
+            "const_name": "लुंड्रा",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "KOTA_DR_RENU AJIT_JOGI_JCCJ.jpg",
+            "cand_name": "डॉ. रेणु अजीत जोगी",
+            "cand_name_english": "DR. RENU AJIT JOGI",
+            "party_name": "जेसीसीजे",
+            "const_name": "कोटा",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "AARANG_DR_SHIVKUMAR_DAHARIYA_INC.jpg",
+            "cand_name": "डॉ. शिवकुमार डहरिया",
+            "cand_name_english": "DR. SHIVKUMAR DAHARIYA",
+            "party_name": "कांग्रेस",
+            "const_name": "आरंग",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "RAJNANDGAWON_GIRISH_DEWANGAN_INC.jpg",
+            "cand_name": "डॉ। रमन सिंह",
+            "cand_name_english": " DR. RAMAN SINGH",
+            "party_name": "भाजपा",
+            "const_name": "राजनांदगांव",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "DURG_GRAMIN_TAMRADHWAJ_SAHU_INC.jpg",
+            "cand_name": "ताम्रध्वज साहू",
+            "cand_name_english": "TAMRADHWAJ SAHU",
+            "party_name": "कांग्रेस",
+            "const_name": "दुर्ग ग्रामीण",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "PALI_TANAKHAR_TULESHWAR_HIRA_SINGH_MARKAM_GGP.jpg",
+            "cand_name": "तुलेश्वर हीरा सिंह मरकाम",
+            "cand_name_english": "TULESHWAR HIRA SINGH MARKAM",
+            "party_name": "गोंगपा",
+            "const_name": "पाली तानाखार",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "NAVAGARH_DAYALDAS_BAGHEL_BJP.jpg",
+            "cand_name": "दयालदास बघेल",
+            "cand_name_english": "DAYALDAS BAGHEL",
+            "party_name": "भाजपा",
+            "const_name": "नवागढ़",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "CHITRAKOT_DEEPAK_KUMAR BAIJ_INC.jpg",
+            "cand_name": "दीपक कुमार बैज",
+            "cand_name_english": "DEEPAK KUMAR BAIJ",
+            "party_name": "कांग्रेस",
+            "const_name": "चित्रकोट",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "BHILAI_NAGAR_DEVENDRA_YADAV_INC.jpg",
+            "cand_name": "देवेन्द्र यादव",
+            "cand_name_english": "DEVENDRA YADAV",
+            "party_name": "कांग्रेस",
+            "const_name": "भिलाई नगर",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "ABHANPUR_DHERENDRA_SAHU_INC.jpg",
+            "cand_name": "धनेन्द्र साहू",
+            "cand_name_english": "DHANENDRA SAHU",
+            "party_name": "कांग्रेस",
+            "const_name": "अभनपुर",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "BILHA_DHARAMLAL_KAUSHIK_BJP.jpg",
+            "cand_name": "धरम लाल कौशिक",
+            "cand_name_english": "DHARAM LAL KAUSHIK",
+            "party_name": "भाजपा",
+            "const_name": "बिल्हा",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "TAKAHATPUR_DHARMJEET_SINGH_BJP.jpg",
+            "cand_name": "धरमजीत सिंह",
+            "cand_name_english": "DHARMJEET SINGH",
+            "party_name": "भाजपा",
+            "const_name": "तखतपुर",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "RAMPUR_NANKI_RAM KANWAR _BJP.jpg",
+            "cand_name": "ननकी राम कंवर",
+            "cand_name_english": "NANKI RAM KANWAR",
+            "party_name": "भाजपा",
+            "const_name": "रामपुर",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "JANJGIR_CHAMPA_NARAYAN_CHANDEL_BJP.jpg",
+            "cand_name": "नारायण चंदेल",
+            "cand_name_english": "NARAYAN CHANDEL",
+            "party_name": "भाजपा",
+            "const_name": "जांजगीर चांपा",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "KESHKAL_NEELKANTH_TEKAM_BJP.jpg",
+            "cand_name": "नीलकंठ टेकाम",
+            "cand_name_english": "NEELKANTH TEKAM",
+            "party_name": "भाजपा",
+            "const_name": "केशकाल",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "PANDARIYA_NEELU_CHANDRAVANSHI_INC.JPG",
+            "cand_name": "नीलू चंद्रवंशी",
+            "cand_name_english": "NEELU CHANDRAVANSHI",
+            "party_name": "कांग्रेस",
+            "const_name": "पंडरिया",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "MUNGELI_PUNNULAL_MOHLE_BJP.jpg",
+            "cand_name": "पुन्नुलाल मोहले",
+            "cand_name_english": "PUNNULAL MOHLE",
+            "party_name": "भाजपा",
+            "const_name": "मुंगेली",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "RAIPUR_CITY_NORTH_PURANDAR_MISHRA_BJP.jpg",
+            "cand_name": "पुरंदर मिश्रा",
+            "cand_name_english": "PURANDAR MISHRA",
+            "party_name": "भाजपा",
+            "const_name": "रायपुर सिटी नार्थ",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "KOTA_PRABAL_PRATAP_SINGH_JUDEV_BJP.jpg",
+            "cand_name": "प्रबल प्रताप सिंह जूदेव",
+            "cand_name_english": "PRABAL PRATAP SINGH JUDEV",
+            "party_name": "भाजपा",
+            "const_name": "कोटा",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "LUNDRA_PRABODH_MINJ_BJP.JPG",
+            "cand_name": "प्रबोध मिंज",
+            "cand_name_english": "PRABOJ BHINJ",
+            "party_name": "भाजपा",
+            "const_name": "लुंड्रा",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "BHILAI_NAGAR_PREM_PRAKASH_PANDEY_BJP.jpg",
+            "cand_name": "प्रेम प्रकाश पांडे",
+            "cand_name_english": "PREM PRAKASH PANDEY",
+            "party_name": "भाजपा",
+            "const_name": "भिलाई नगर",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "RAIPUR_CITY_SOUTH_BRIJMOHAN_AGRAWAL_BJP.jpg",
+            "cand_name": "बृजमोहन अग्रवाल",
+            "cand_name_english": "BRIJMOHAN AGRAWAL",
+            "party_name": "भाजपा",
+            "const_name": "रायपुर सिटी साउथ",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "BAIKUNTHPUR_BHAIYA_LAL_RAJWADE_BJP.JPG",
+            "cand_name": "भईया लाल राजवाड़े",
+            "cand_name_english": "BHAIYA LAL RAJWADE",
+            "party_name": "भाजपा",
+            "const_name": "बैकुंठपुर",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "PANDARIYA_BHAWNA_BOHRA_BJP.jpg",
+            "cand_name": "भावना बोहरा",
+            "cand_name_english": "BHAWNA BOHRA",
+            "party_name": "भाजपा",
+            "const_name": "पंडरिया",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "PATAN_BHUPESH_BAGHEL_INC.JPG",
+            "cand_name": "भूपेश बघेल",
+            "cand_name_english": "BHUPESH BAGHEL",
+            "party_name": "कांग्रेस",
+            "const_name": "पाटन",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "RAIGHARH_MADHU_ BAI_KINNAR_ JCCJ.jpg",
+            "cand_name": "मधु बाई (किन्नर)",
+            "cand_name_english": "MADHU BAI (KINNAR)",
+            "party_name": "जेसीसीजे",
+            "const_name": "रायगढ़",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "BIJAPUR_MAHESH_GAGDA_BJP.jpg",
+            "cand_name": "महेश गागड़ा",
+            "cand_name_english": "MAHESH GAGDA",
+            "party_name": "भाजपा",
+            "const_name": "बीजापुर",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "KONDAGAWON_MOHAN_MARKAM_INC.jpg",
+            "cand_name": "मोहन मरकाम",
+            "cand_name_english": " MOHAN MARKAM",
+            "party_name": "कांग्रेस",
+            "const_name": "कोंडागांव",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "KUNKURI_UD_MINJ_INC.jpg",
+            "cand_name": "यू डी मिंज",
+            "cand_name_english": "U D MINJ",
+            "party_name": "कांग्रेस",
+            "const_name": "कुनकुरी",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "SAJA_RAVINDRA_CHOUBEY_INC.jpg",
+            "cand_name": "रवीन्द्र चौबे",
+            "cand_name_english": "RAVINDRA CHOUBEY",
+            "party_name": "कांग्रेस",
+            "const_name": "साजा",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "RAIPUR_CITY_WEST_RAJESH_MUNAT_BJP.jpg",
+            "cand_name": "राजेश मूणत",
+            "cand_name_english": "RAJESH MUNAT",
+            "party_name": "भाजपा",
+            "const_name": "रायपुर सिटी वेस्ट",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "RAMANUJGANJ_RAM_VICHAR_NETAM_BJP.jpg",
+            "cand_name": "राम विचार नेताम",
+            "cand_name_english": " RAM VICHAR NETAM",
+            "party_name": "भाजपा",
+            "const_name": "रामानुजगंज",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "SITAPUR_RAM_KUMAR_TOPPO_BJP.JPG",
+            "cand_name": "रामकुमार टोप्पो",
+            "cand_name_english": "RAM KUMAR TOPPO",
+            "party_name": "भाजपा",
+            "const_name": "सीतापुर",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "PATTHALGAWON_RAMPUKAR_SINGH_INC.jpg",
+            "cand_name": "रामपुकार सिंह ठाकुर",
+            "cand_name_english": "RAMPUKAR SINGH",
+            "party_name": "कांग्रेस",
+            "const_name": "पत्थलगांव",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "JASPUR_RAIMUNI_BHAGAT_BJP.jpg",
+            "cand_name": "रायमुनी भगत",
+            "cand_name_english": "RAIMUNI BHAGAT",
+            "party_name": "भाजपा",
+            "const_name": "जशपुर",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "BHARATPUR_SONHAT_RENUKA_SINGH_SARUTA_BJP.JPG",
+            "cand_name": "रेणुका सिंह सरुता",
+            "cand_name_english": "RENUKA SINGH SARUTA",
+            "party_name": "भाजपा",
+            "const_name": "भरतपुर सोनहत",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "KONDAGAWON_LATA_USENDI_BJP.jpg",
+            "cand_name": "लता उसेंडी",
+            "cand_name_english": " LATA USENDI",
+            "party_name": "भाजपा",
+            "const_name": "कोंडागांव",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "RAIPUR_CITY_WEST_VIKAS_UPADHYAY_INC.jpg",
+            "cand_name": "विकास उपाध्याय",
+            "cand_name_english": "VIKAS UPADHYAY",
+            "party_name": "कांग्रेस",
+            "const_name": "रायपुर सिटी वेस्ट",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "ANTAGARH_VIKRAM_USENDI_BJP.jpg",
+            "cand_name": "विक्रम उसेंडी",
+            "cand_name_english": "VIKRAM USENDI",
+            "party_name": "भाजपा",
+            "const_name": "अंतागढ़",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "BIJAPUR_VIKRAM_MANDAVI_INC.jpg",
+            "cand_name": "विक्रम मण्डावी",
+            "cand_name_english": "VIKRAM MANDAVI",
+            "party_name": "कांग्रेस",
+            "const_name": "बीजापुर",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "PATAN_VIJAY_BAGHEL_SANSAD_BJP.JPG",
+            "cand_name": "विजय बघेल (सांसद)",
+            "cand_name_english": "VIJAY BAGHEL (SANSAD)",
+            "party_name": "भाजपा",
+            "const_name": "पाटन",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "KAWARDHA_VIJAY_SHARMA_BJP.jpg",
+            "cand_name": "विजय शर्मा",
+            "cand_name_english": "VIJAY SHARMA",
+            "party_name": "भाजपा",
+            "const_name": "कवर्धा",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "JASPUR_VINAY_KUMAR_BHAGAT_INC.jpg",
+            "cand_name": "विनय भगत",
+            "cand_name_english": "VINAY KUMAR BHAGAT",
+            "party_name": "कांग्रेस",
+            "const_name": "जशपुर",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "KUNKURI_VISHNU_DEV_SAI_BJP.jpg",
+            "cand_name": "विष्णु देव साय",
+            "cand_name_english": "VISHNU DEV SAI",
+            "party_name": "भाजपा",
+            "const_name": "कुनकुरी",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "BHATAPARA_SHIVRATAN_SHARMA_BJP.jpg",
+            "cand_name": "शिवरतन शर्मा",
+            "cand_name_english": "SHIVRATAN SHARMA",
+            "party_name": "भाजपा",
+            "const_name": "भाटापारा",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "BALODABAZAR_SHAILESH_NITIN_TRIVEDI_INC.jpg",
+            "cand_name": "शैलेश नितिन त्रिवेदी",
+            "cand_name_english": "SHAILESH NITIN TRIVEDI",
+            "party_name": "कांग्रेस",
+            "const_name": "बलौदाबाजार",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "BILASPUR_SHAILESH_PANDEY_INC.jpg",
+            "cand_name": "शैलेष पांडे",
+            "cand_name_english": " SHAILESH PANDEY",
+            "party_name": "कांग्रेस",
+            "const_name": "बिलासपुर",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "KESHKAL_SANT_RAM_NETAM_INC.jpg",
+            "cand_name": "संत राम नेताम",
+            "cand_name_english": "SANT RAM NETAM",
+            "party_name": "कांग्रेस",
+            "const_name": "केशकाल",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "CHANDRAPUR_SANYOGITA_ YUDHVIR_ SINGH__ JUDEV_BJP.jpg",
+            "cand_name": "संयोगिता युद्धवीर सिंह जूदेव",
+            "cand_name_english": "SANYOGITA YUDHVIR SINGH JUDEV",
+            "party_name": "भाजपा",
+            "const_name": "चंद्रपुर",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "",
+            "cand_name": "सावित्री मनोज मंडावी",
+            "cand_name_english": "SAVITRI MANOJ MANDAVI",
+            "party_name": "कांग्रेस",
+            "const_name": "भानुप्रतापपुर",
+            "status": "जीत"
+        },
+        {
+            "cand_pic": "KONTA_SOYAM_MUKA_BJP.jpg",
+            "cand_name": "सोयम मूका",
+            "cand_name_english": "SOYAM MUKA",
+            "party_name": "भाजपा",
+            "const_name": "कोंटा",
+            "status": "हार"
+        },
+        {
+            "cand_pic": "AKALTARA_SAURABH_SINGH_BJP.jpg",
+            "cand_name": "सौरभ सिंह",
+            "cand_name_english": "SAURABH SINGH",
+            "party_name": "भाजपा",
+            "const_name": "अकलतरा",
+            "status": "हार"
+        }
+    ]
+}
